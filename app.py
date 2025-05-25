@@ -10,6 +10,11 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 # Load environment variables
 load_dotenv()
 
+#LangSmith Tracking
+os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+os.environ["LANGSMITH_TRACING_V2"] = "true"
+os.environ["LANGSMITH_PROJECT"] = os.getenv("LANGSMITH_PROJECT")
+
 # Validate data directory
 data_dir = "./data_source/generative_ai/data"
 if not os.path.exists(data_dir):
