@@ -11,7 +11,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 load_dotenv()
 
 # Validate data directory
-data_dir = "./data_source/generative_ai/data_test"
+data_dir = "./data_source/generative_ai/data"
 if not os.path.exists(data_dir):
     st.error(f"Data directory {data_dir} does not exist.")
     st.stop()
