@@ -1,0 +1,4022 @@
+[
+  {
+    "title": "Lost in Translation: Large Language Models in Non-English Content   Analysis",
+    "url": "http://arxiv.org/pdf/2306.07377v1"
+  },
+  {
+    "title": "Cedille: A large autoregressive French language model",
+    "url": "http://arxiv.org/pdf/2202.03371v1"
+  },
+  {
+    "title": "How Good are Commercial Large Language Models on African Languages?",
+    "url": "http://arxiv.org/pdf/2305.06530v1"
+  },
+  {
+    "title": "Goldfish: Monolingual Language Models for 350 Languages",
+    "url": "http://arxiv.org/pdf/2408.10441v1"
+  },
+  {
+    "title": "Modelling Language",
+    "url": "http://arxiv.org/pdf/2404.09579v1"
+  },
+  {
+    "title": "GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language   Models",
+    "url": "http://arxiv.org/pdf/2310.08487v1"
+  },
+  {
+    "title": "A Survey of GPT-3 Family Large Language Models Including ChatGPT and   GPT-4",
+    "url": "http://arxiv.org/pdf/2310.12321v1"
+  },
+  {
+    "title": "From BERT to GPT-3 Codex: Harnessing the Potential of Very Large   Language Models for Data Management",
+    "url": "http://arxiv.org/pdf/2306.09339v1"
+  },
+  {
+    "title": "MATS: An Audio Language Model under Text-only Supervision",
+    "url": "http://arxiv.org/pdf/2502.13433v2"
+  },
+  {
+    "title": "IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task   Language Understanding",
+    "url": "http://arxiv.org/pdf/2501.15747v2"
+  },
+  {
+    "title": "Adapting Language-Specific LLMs to a Reasoning Model in One Day via   Model Merging -- An Open Recipe",
+    "url": "http://arxiv.org/pdf/2502.09056v3"
+  },
+  {
+    "title": "Efficiently Adapting Pretrained Language Models To New Languages",
+    "url": "http://arxiv.org/pdf/2311.05741v2"
+  },
+  {
+    "title": "Improving Large-scale Language Models and Resources for Filipino",
+    "url": "http://arxiv.org/pdf/2111.06053v1"
+  },
+  {
+    "title": "Enhancing Multilingual Capabilities of Large Language Models through   Self-Distillation from Resource-Rich Languages",
+    "url": "http://arxiv.org/pdf/2402.12204v1"
+  },
+  {
+    "title": "How do Large Language Models Handle Multilingualism?",
+    "url": "http://arxiv.org/pdf/2402.18815v3"
+  },
+  {
+    "title": "Do Large Language Models Speak All Languages Equally? A Comparative   Study in Low-Resource Settings",
+    "url": "http://arxiv.org/pdf/2408.02237v1"
+  },
+  {
+    "title": "Large Language Models are Easily Confused: A Quantitative Metric,   Security Implications and Typological Analysis",
+    "url": "http://arxiv.org/pdf/2410.13237v2"
+  },
+  {
+    "title": "Subword Segmental Language Modelling for Nguni Languages",
+    "url": "http://arxiv.org/pdf/2210.06525v1"
+  },
+  {
+    "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image   Encoders and Large Language Models",
+    "url": "http://arxiv.org/pdf/2301.12597v3"
+  },
+  {
+    "title": "LlamaTurk: Adapting Open-Source Generative Large Language Models for   Low-Resource Language",
+    "url": "http://arxiv.org/pdf/2405.07745v1"
+  },
+  {
+    "title": "EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language   Models",
+    "url": "http://arxiv.org/pdf/2409.17892v2"
+  },
+  {
+    "title": "Language Modelling for Source Code with Transformer-XL",
+    "url": "http://arxiv.org/pdf/2007.15813v1"
+  },
+  {
+    "title": "Do All Languages Cost the Same? Tokenization in the Era of Commercial   Language Models",
+    "url": "http://arxiv.org/pdf/2305.13707v1"
+  },
+  {
+    "title": "Connecting Neural Response measurements & Computational Models of   language: a non-comprehensive guide",
+    "url": "http://arxiv.org/pdf/2203.05300v1"
+  },
+  {
+    "title": "Meaning and understanding in large language models",
+    "url": "http://arxiv.org/pdf/2310.17407v1"
+  },
+  {
+    "title": "A Hard Nut to Crack: Idiom Detection with Conversational Large Language   Models",
+    "url": "http://arxiv.org/pdf/2405.10579v1"
+  },
+  {
+    "title": "LLMic: Romanian Foundation Language Model",
+    "url": "http://arxiv.org/pdf/2501.07721v1"
+  },
+  {
+    "title": "X-Instruction: Aligning Language Model in Low-resource Languages with   Self-curated Cross-lingual Instructions",
+    "url": "http://arxiv.org/pdf/2405.19744v1"
+  },
+  {
+    "title": "A Comparative Analysis of Conversational Large Language Models in   Knowledge-Based Text Generation",
+    "url": "http://arxiv.org/pdf/2402.01495v1"
+  },
+  {
+    "title": "Language Model Supervision for Handwriting Recognition Model Adaptation",
+    "url": "http://arxiv.org/pdf/1808.01423v1"
+  },
+  {
+    "title": "MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural   Code Generation",
+    "url": "http://arxiv.org/pdf/2208.08227v4"
+  },
+  {
+    "title": "Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and   Language Models",
+    "url": "http://arxiv.org/pdf/2503.10298v2"
+  },
+  {
+    "title": "Conditionally Combining Robot Skills using Large Language Models",
+    "url": "http://arxiv.org/pdf/2310.17019v1"
+  },
+  {
+    "title": "MaLA-500: Massive Language Adaptation of Large Language Models",
+    "url": "http://arxiv.org/pdf/2401.13303v2"
+  },
+  {
+    "title": "LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian   Language",
+    "url": "http://arxiv.org/pdf/2312.09993v1"
+  },
+  {
+    "title": "Transferring Monolingual Model to Low-Resource Language: The Case of   Tigrinya",
+    "url": "http://arxiv.org/pdf/2006.07698v2"
+  },
+  {
+    "title": "Can Retriever-Augmented Language Models Reason? The Blame Game Between   the Retriever and the Language Model",
+    "url": "http://arxiv.org/pdf/2212.09146v3"
+  },
+  {
+    "title": "IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model   with Multimodal Capabilities",
+    "url": "http://arxiv.org/pdf/2408.12902v2"
+  },
+  {
+    "title": "Knesset-DictaBERT: A Hebrew Language Model for Parliamentary Proceedings",
+    "url": "http://arxiv.org/pdf/2407.20581v1"
+  },
+  {
+    "title": "ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation",
+    "url": "http://arxiv.org/pdf/2311.00272v1"
+  },
+  {
+    "title": "Evaluating Large Language Models on Controlled Generation Tasks",
+    "url": "http://arxiv.org/pdf/2310.14542v1"
+  },
+  {
+    "title": "Vokenization: Improving Language Understanding with Contextualized,   Visual-Grounded Supervision",
+    "url": "http://arxiv.org/pdf/2010.06775v1"
+  },
+  {
+    "title": "Zero-shot Sentiment Analysis in Low-Resource Languages Using a   Multilingual Sentiment Lexicon",
+    "url": "http://arxiv.org/pdf/2402.02113v1"
+  },
+  {
+    "title": "Towards Neural No-Resource Language Translation: A Comparative   Evaluation of Approaches",
+    "url": "http://arxiv.org/pdf/2412.20584v1"
+  },
+  {
+    "title": "Language-Family Adapters for Low-Resource Multilingual Neural Machine   Translation",
+    "url": "http://arxiv.org/pdf/2209.15236v3"
+  },
+  {
+    "title": "How do languages influence each other? Studying cross-lingual data   sharing during LM fine-tuning",
+    "url": "http://arxiv.org/pdf/2305.13286v2"
+  },
+  {
+    "title": "Randomly Sampled Language Reasoning Problems Reveal Limits of LLMs",
+    "url": "http://arxiv.org/pdf/2501.02825v4"
+  },
+  {
+    "title": "A Breadth-First Catalog of Text Processing, Speech Processing and   Multimodal Research in South Asian Languages",
+    "url": "http://arxiv.org/pdf/2501.00029v1"
+  },
+  {
+    "title": "Enhancing NER Performance in Low-Resource Pakistani Languages using   Cross-Lingual Data Augmentation",
+    "url": "http://arxiv.org/pdf/2504.08792v1"
+  },
+  {
+    "title": "MiLMo:Minority Multilingual Pre-trained Language Model",
+    "url": "http://arxiv.org/pdf/2212.01779v2"
+  },
+  {
+    "title": "Simulation of language competition by physicists",
+    "url": "http://arxiv.org/pdf/physics/0511049v1"
+  },
+  {
+    "title": "Chronologically Consistent Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.21206v2"
+  },
+  {
+    "title": "Multilingual transfer of acoustic word embeddings improves when training   on languages related to the target zero-resource language",
+    "url": "http://arxiv.org/pdf/2106.12834v1"
+  },
+  {
+    "title": "JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset",
+    "url": "http://arxiv.org/pdf/2212.03419v1"
+  },
+  {
+    "title": "Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting   LLMs Across Languages and Resources",
+    "url": "http://arxiv.org/pdf/2504.04152v1"
+  },
+  {
+    "title": "Assessing Code Generation with Intermediate Languages",
+    "url": "http://arxiv.org/pdf/2407.05411v1"
+  },
+  {
+    "title": "Cross-lingual Transfer for Automatic Question Generation by Learning   Interrogative Structures in Target Languages",
+    "url": "http://arxiv.org/pdf/2410.03197v1"
+  },
+  {
+    "title": "Learning Instruction-Guided Manipulation Affordance via Large Models for   Embodied Robotic Tasks",
+    "url": "http://arxiv.org/pdf/2408.10658v1"
+  },
+  {
+    "title": "Bootstrapping Cognitive Agents with a Large Language Model",
+    "url": "http://arxiv.org/pdf/2403.00810v1"
+  },
+  {
+    "title": "Prompting Vision Language Model with Knowledge from Large Language Model   for Knowledge-Based VQA",
+    "url": "http://arxiv.org/pdf/2308.15851v1"
+  },
+  {
+    "title": "RECKON: Large-scale Reference-based Efficient Knowledge Evaluation for   Large Language Model",
+    "url": "http://arxiv.org/pdf/2504.00756v1"
+  },
+  {
+    "title": "Cognitive bias in large language models: Cautious optimism meets   anti-Panglossian meliorism",
+    "url": "http://arxiv.org/pdf/2311.10932v1"
+  },
+  {
+    "title": "scInterpreter: Training Large Language Models to Interpret scRNA-seq   Data for Cell Type Annotation",
+    "url": "http://arxiv.org/pdf/2402.12405v1"
+  },
+  {
+    "title": "Language Ranker: A Metric for Quantifying LLM Performance Across High   and Low-Resource Languages",
+    "url": "http://arxiv.org/pdf/2404.11553v3"
+  },
+  {
+    "title": "Predicting Anti-microbial Resistance using Large Language Models",
+    "url": "http://arxiv.org/pdf/2401.00642v1"
+  },
+  {
+    "title": "Advancing bioinformatics with large language models: components,   applications and perspectives",
+    "url": "http://arxiv.org/pdf/2401.04155v2"
+  },
+  {
+    "title": "Evaluating Tokenizer Performance of Large Language Models Across   Official Indian Languages",
+    "url": "http://arxiv.org/pdf/2411.12240v2"
+  },
+  {
+    "title": "Traces of Memorisation in Large Language Models for Code",
+    "url": "http://arxiv.org/pdf/2312.11658v2"
+  },
+  {
+    "title": "Learning to Scale Multilingual Representations for Vision-Language Tasks",
+    "url": "http://arxiv.org/pdf/2004.04312v2"
+  },
+  {
+    "title": "Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages",
+    "url": "http://arxiv.org/pdf/2306.16774v1"
+  },
+  {
+    "title": "ChatGPT MT: Competitive for High- (but not Low-) Resource Languages",
+    "url": "http://arxiv.org/pdf/2309.07423v1"
+  },
+  {
+    "title": "Language Modeling with Sparse Product of Sememe Experts",
+    "url": "http://arxiv.org/pdf/1810.12387v1"
+  },
+  {
+    "title": "Code-mixed Sentiment and Hate-speech Prediction",
+    "url": "http://arxiv.org/pdf/2405.12929v1"
+  },
+  {
+    "title": "On the Scaling Laws of Geographical Representation in Language Models",
+    "url": "http://arxiv.org/pdf/2402.19406v2"
+  },
+  {
+    "title": "Lens: Rethinking Multilingual Enhancement for Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.04407v1"
+  },
+  {
+    "title": "Understanding the Capabilities, Limitations, and Societal Impact of   Large Language Models",
+    "url": "http://arxiv.org/pdf/2102.02503v1"
+  },
+  {
+    "title": "Large-Scale Contextualised Language Modelling for Norwegian",
+    "url": "http://arxiv.org/pdf/2104.06546v1"
+  },
+  {
+    "title": "Large Vocabulary Size Improves Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.16508v1"
+  },
+  {
+    "title": "Foundations of Large Language Models",
+    "url": "http://arxiv.org/pdf/2501.09223v1"
+  },
+  {
+    "title": "Algorithmic Ghost in the Research Shell: Large Language Models and   Academic Knowledge Creation in Management Research",
+    "url": "http://arxiv.org/pdf/2303.07304v1"
+  },
+  {
+    "title": "Inference Optimizations for Large Language Models: Effects, Challenges,   and Practical Considerations",
+    "url": "http://arxiv.org/pdf/2408.03130v1"
+  },
+  {
+    "title": "LLMR: Knowledge Distillation with a Large Language Model-Induced Reward",
+    "url": "http://arxiv.org/pdf/2409.12500v1"
+  },
+  {
+    "title": "Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination",
+    "url": "http://arxiv.org/pdf/2210.12261v1"
+  },
+  {
+    "title": "From Isolates to Families: Using Neural Networks for Automated Language   Affiliation",
+    "url": "http://arxiv.org/pdf/2502.11688v1"
+  },
+  {
+    "title": "Regularization Advantages of Multilingual Neural Language Models for Low   Resource Domains",
+    "url": "http://arxiv.org/pdf/1906.01496v1"
+  },
+  {
+    "title": "Bridging the Language Gaps in Large Language Models with Inference-Time   Cross-Lingual Intervention",
+    "url": "http://arxiv.org/pdf/2410.12462v1"
+  },
+  {
+    "title": "Benchmarking Knowledge Boundary for Large Language Models: A Different   Perspective on Model Evaluation",
+    "url": "http://arxiv.org/pdf/2402.11493v2"
+  },
+  {
+    "title": "On the Planning, Search, and Memorization Capabilities of Large Language   Models",
+    "url": "http://arxiv.org/pdf/2309.01868v1"
+  },
+  {
+    "title": "FASTNav: Fine-tuned Adaptive Small-language-models Trained for   Multi-point Robot Navigation",
+    "url": "http://arxiv.org/pdf/2411.13262v1"
+  },
+  {
+    "title": "DNAHLM -- DNA sequence and Human Language mixed large language Model",
+    "url": "http://arxiv.org/pdf/2410.16917v2"
+  },
+  {
+    "title": "Investigating cybersecurity incidents using large language models in   latest-generation wireless networks",
+    "url": "http://arxiv.org/pdf/2504.13196v1"
+  },
+  {
+    "title": "Conversations in Galician: a Large Language Model for an   Underrepresented Language",
+    "url": "http://arxiv.org/pdf/2311.03812v1"
+  },
+  {
+    "title": "Babysit A Language Model From Scratch: Interactive Language Learning by   Trials and Demonstrations",
+    "url": "http://arxiv.org/pdf/2405.13828v2"
+  },
+  {
+    "title": "EnviroExam: Benchmarking Environmental Science Knowledge of Large   Language Models",
+    "url": "http://arxiv.org/pdf/2405.11265v1"
+  },
+  {
+    "title": "Komodo: A Linguistic Expedition into Indonesia's Regional Languages",
+    "url": "http://arxiv.org/pdf/2403.09362v2"
+  },
+  {
+    "title": "Language Generation from Brain Recordings",
+    "url": "http://arxiv.org/pdf/2311.09889v5"
+  },
+  {
+    "title": "Aligning Speech to Languages to Enhance Code-switching Speech   Recognition",
+    "url": "http://arxiv.org/pdf/2403.05887v2"
+  },
+  {
+    "title": "Limits of Detecting Text Generated by Large-Scale Language Models",
+    "url": "http://arxiv.org/pdf/2002.03438v1"
+  },
+  {
+    "title": "Robustifying Language Models with Test-Time Adaptation",
+    "url": "http://arxiv.org/pdf/2310.19177v1"
+  },
+  {
+    "title": "Quantifying Gender Bias Towards Politicians in Cross-Lingual Language   Models",
+    "url": "http://arxiv.org/pdf/2104.07505v2"
+  },
+  {
+    "title": "Bridging the Gap Between Training and Inference of Bayesian Controllable   Language Models",
+    "url": "http://arxiv.org/pdf/2206.05519v1"
+  },
+  {
+    "title": "Injecting structural hints: Using language models to study inductive   biases in language learning",
+    "url": "http://arxiv.org/pdf/2304.13060v2"
+  },
+  {
+    "title": "Large Language Models Still Face Challenges in Multi-Hop Reasoning with   External Knowledge",
+    "url": "http://arxiv.org/pdf/2412.08317v1"
+  },
+  {
+    "title": "Towards a More Inclusive AI: Progress and Perspectives in Large Language   Model Training for the Sámi Language",
+    "url": "http://arxiv.org/pdf/2405.05777v1"
+  },
+  {
+    "title": "Large Multilingual Models Pivot Zero-Shot Multimodal Learning across   Languages",
+    "url": "http://arxiv.org/pdf/2308.12038v3"
+  },
+  {
+    "title": "Neural Cross-Lingual Relation Extraction Based on Bilingual Word   Embedding Mapping",
+    "url": "http://arxiv.org/pdf/1911.00069v1"
+  },
+  {
+    "title": "Cross-modal Language Generation using Pivot Stabilization for Web-scale   Language Coverage",
+    "url": "http://arxiv.org/pdf/2005.00246v1"
+  },
+  {
+    "title": "ClimateBert: A Pretrained Language Model for Climate-Related Text",
+    "url": "http://arxiv.org/pdf/2110.12010v3"
+  },
+  {
+    "title": "Multilingual Instruction Tuning With Just a Pinch of Multilinguality",
+    "url": "http://arxiv.org/pdf/2401.01854v4"
+  },
+  {
+    "title": "LEIA: Facilitating Cross-lingual Knowledge Transfer in Language Models   with Entity-based Data Augmentation",
+    "url": "http://arxiv.org/pdf/2402.11485v2"
+  },
+  {
+    "title": "Egalitarian Language Representation in Language Models: It All Begins   with Tokenizers",
+    "url": "http://arxiv.org/pdf/2409.11501v1"
+  },
+  {
+    "title": "Exploring Vision Language Models for Multimodal and Multilingual Stance   Detection",
+    "url": "http://arxiv.org/pdf/2501.17654v1"
+  },
+  {
+    "title": "CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language   Model Question Answering",
+    "url": "http://arxiv.org/pdf/2501.18457v2"
+  },
+  {
+    "title": "Multilingual Large Language Model: A Survey of Resources, Taxonomy and   Frontiers",
+    "url": "http://arxiv.org/pdf/2404.04925v1"
+  },
+  {
+    "title": "Language Modeling for Code-Switching: Evaluation, Integration of   Monolingual Data, and Discriminative Training",
+    "url": "http://arxiv.org/pdf/1810.11895v3"
+  },
+  {
+    "title": "LaMP: When Large Language Models Meet Personalization",
+    "url": "http://arxiv.org/pdf/2304.11406v4"
+  },
+  {
+    "title": "Benchmarking Large Language Model Capabilities for Conditional   Generation",
+    "url": "http://arxiv.org/pdf/2306.16793v1"
+  },
+  {
+    "title": "Can adversarial attacks by large language models be attributed?",
+    "url": "http://arxiv.org/pdf/2411.08003v1"
+  },
+  {
+    "title": "QueEn: A Large Language Model for Quechua-English Translation",
+    "url": "http://arxiv.org/pdf/2412.05184v1"
+  },
+  {
+    "title": "MERaLiON-TextLLM: Cross-Lingual Understanding of Large Language Models   in Chinese, Indonesian, Malay, and Singlish",
+    "url": "http://arxiv.org/pdf/2501.08335v3"
+  },
+  {
+    "title": "Language Modeling on Tabular Data: A Survey of Foundations, Techniques   and Evolution",
+    "url": "http://arxiv.org/pdf/2408.10548v1"
+  },
+  {
+    "title": "LADEV: A Language-Driven Testing and Evaluation Platform for   Vision-Language-Action Models in Robotic Manipulation",
+    "url": "http://arxiv.org/pdf/2410.05191v1"
+  },
+  {
+    "title": "HindiLLM: Large Language Model for Hindi",
+    "url": "http://arxiv.org/pdf/2412.20357v1"
+  },
+  {
+    "title": "TinyHelen's First Curriculum: Training and Evaluating Tiny Language   Models in a Simpler Language Environment",
+    "url": "http://arxiv.org/pdf/2501.00522v1"
+  },
+  {
+    "title": "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge   Distillation and Modal-adaptive Pruning",
+    "url": "http://arxiv.org/pdf/2210.07795v1"
+  },
+  {
+    "title": "Software Model Evolution with Large Language Models: Experiments on   Simulated, Public, and Industrial Datasets",
+    "url": "http://arxiv.org/pdf/2406.17651v5"
+  },
+  {
+    "title": "VLind-Bench: Measuring Language Priors in Large Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2406.08702v4"
+  },
+  {
+    "title": "How well do Large Language Models perform in Arithmetic tasks?",
+    "url": "http://arxiv.org/pdf/2304.02015v1"
+  },
+  {
+    "title": "SuryaKiran at MEDIQA-Sum 2023: Leveraging LoRA for Clinical Dialogue   Summarization",
+    "url": "http://arxiv.org/pdf/2307.05162v1"
+  },
+  {
+    "title": "Metacognition-Enhanced Few-Shot Prompting With Positive Reinforcement",
+    "url": "http://arxiv.org/pdf/2312.08642v2"
+  },
+  {
+    "title": "KS-LLM: Knowledge Selection of Large Language Models with Evidence   Document for Question Answering",
+    "url": "http://arxiv.org/pdf/2404.15660v1"
+  },
+  {
+    "title": "Assisted Debate Builder with Large Language Models",
+    "url": "http://arxiv.org/pdf/2405.13015v1"
+  },
+  {
+    "title": "Large Language Models Meet NL2Code: A Survey",
+    "url": "http://arxiv.org/pdf/2212.09420v2"
+  },
+  {
+    "title": "Sentence Correction Based on Large-scale Language Modelling",
+    "url": "http://arxiv.org/pdf/1709.07777v2"
+  },
+  {
+    "title": "Large Margin Neural Language Model",
+    "url": "http://arxiv.org/pdf/1808.08987v1"
+  },
+  {
+    "title": "Paraphrasing with Large Language Models",
+    "url": "http://arxiv.org/pdf/1911.09661v1"
+  },
+  {
+    "title": "Large Language Models Perform Diagnostic Reasoning",
+    "url": "http://arxiv.org/pdf/2307.08922v1"
+  },
+  {
+    "title": "Is Self-knowledge and Action Consistent or Not: Investigating Large   Language Model's Personality",
+    "url": "http://arxiv.org/pdf/2402.14679v2"
+  },
+  {
+    "title": "Reasoning in Large Language Models: A Geometric Perspective",
+    "url": "http://arxiv.org/pdf/2407.02678v1"
+  },
+  {
+    "title": "ConCodeEval: Evaluating Large Language Models for Code Constraints in   Domain-Specific Languages",
+    "url": "http://arxiv.org/pdf/2407.03387v3"
+  },
+  {
+    "title": "Leveraging Open-Source Large Language Models for Native Language   Identification",
+    "url": "http://arxiv.org/pdf/2409.09659v2"
+  },
+  {
+    "title": "How Do Multilingual Language Models Remember Facts?",
+    "url": "http://arxiv.org/pdf/2410.14387v2"
+  },
+  {
+    "title": "Distilling Script Knowledge from Large Language Models for Constrained   Language Planning",
+    "url": "http://arxiv.org/pdf/2305.05252v5"
+  },
+  {
+    "title": "A Comparative Study of Translation Bias and Accuracy in Multilingual   Large Language Models for Cross-Language Claim Verification",
+    "url": "http://arxiv.org/pdf/2410.10303v1"
+  },
+  {
+    "title": "Multilingual Performance Biases of Large Language Models in Education",
+    "url": "http://arxiv.org/pdf/2504.17720v1"
+  },
+  {
+    "title": "Language ID in the Wild: Unexpected Challenges on the Path to a   Thousand-Language Web Text Corpus",
+    "url": "http://arxiv.org/pdf/2010.14571v2"
+  },
+  {
+    "title": "MotionGPT: Human Motion as a Foreign Language",
+    "url": "http://arxiv.org/pdf/2306.14795v2"
+  },
+  {
+    "title": "Adapters for Enhanced Modeling of Multilingual Knowledge and Text",
+    "url": "http://arxiv.org/pdf/2210.13617v2"
+  },
+  {
+    "title": "Tackling Vision Language Tasks Through Learning Inner Monologues",
+    "url": "http://arxiv.org/pdf/2308.09970v1"
+  },
+  {
+    "title": "Better Language Models with Model Merging",
+    "url": "http://arxiv.org/pdf/cmp-lg/9604005v1"
+  },
+  {
+    "title": "Scaling Expert Language Models with Unsupervised Domain Discovery",
+    "url": "http://arxiv.org/pdf/2303.14177v1"
+  },
+  {
+    "title": "Cross-Lingual Supervision improves Large Language Models Pre-training",
+    "url": "http://arxiv.org/pdf/2305.11778v1"
+  },
+  {
+    "title": "A Systematic Survey of Prompt Engineering on Vision-Language Foundation   Models",
+    "url": "http://arxiv.org/pdf/2307.12980v1"
+  },
+  {
+    "title": "MAPLE: Multilingual Evaluation of Parameter Efficient Finetuning of   Large Language Models",
+    "url": "http://arxiv.org/pdf/2401.07598v3"
+  },
+  {
+    "title": "Leveraging Large Language Models to Generate Answer Set Programs",
+    "url": "http://arxiv.org/pdf/2307.07699v1"
+  },
+  {
+    "title": "Large Language Models Only Pass Primary School Exams in Indonesia: A   Comprehensive Test on IndoMMLU",
+    "url": "http://arxiv.org/pdf/2310.04928v2"
+  },
+  {
+    "title": "Large Language Models as Generalizable Policies for Embodied Tasks",
+    "url": "http://arxiv.org/pdf/2310.17722v2"
+  },
+  {
+    "title": "Large Language Model Augmented Exercise Retrieval for Personalized   Language Learning",
+    "url": "http://arxiv.org/pdf/2402.16877v1"
+  },
+  {
+    "title": "mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models   for Code Generation",
+    "url": "http://arxiv.org/pdf/2410.15037v2"
+  },
+  {
+    "title": "Monte Carlo Planning with Large Language Model for Text-Based Game   Agents",
+    "url": "http://arxiv.org/pdf/2504.16855v1"
+  },
+  {
+    "title": "Large language models can be zero-shot anomaly detectors for time   series?",
+    "url": "http://arxiv.org/pdf/2405.14755v3"
+  },
+  {
+    "title": "HyperTuning: Toward Adapting Large Language Models without   Back-propagation",
+    "url": "http://arxiv.org/pdf/2211.12485v1"
+  },
+  {
+    "title": "Evaluating the Capability of Large-scale Language Models on Chinese   Grammatical Error Correction Task",
+    "url": "http://arxiv.org/pdf/2307.03972v2"
+  },
+  {
+    "title": "GLoRE: Evaluating Logical Reasoning of Large Language Models",
+    "url": "http://arxiv.org/pdf/2310.09107v2"
+  },
+  {
+    "title": "CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral   Therapy-based Mental Health Question Answering",
+    "url": "http://arxiv.org/pdf/2403.16008v1"
+  },
+  {
+    "title": "Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in   Natural Language Understanding",
+    "url": "http://arxiv.org/pdf/2204.06283v2"
+  },
+  {
+    "title": "Concept Space Alignment in Multilingual LLMs",
+    "url": "http://arxiv.org/pdf/2410.01079v1"
+  },
+  {
+    "title": "OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model",
+    "url": "http://arxiv.org/pdf/2411.07238v2"
+  },
+  {
+    "title": "Thinking Tokens for Language Modeling",
+    "url": "http://arxiv.org/pdf/2405.08644v1"
+  },
+  {
+    "title": "A Psycholinguistic Evaluation of Language Models' Sensitivity to   Argument Roles",
+    "url": "http://arxiv.org/pdf/2410.16139v1"
+  },
+  {
+    "title": "Looking Beyond Language Priors: Enhancing Visual Comprehension and   Attention in Multimodal Models",
+    "url": "http://arxiv.org/pdf/2505.05626v1"
+  },
+  {
+    "title": "cViL: Cross-Lingual Training of Vision-Language Models using Knowledge   Distillation",
+    "url": "http://arxiv.org/pdf/2206.03354v2"
+  },
+  {
+    "title": "Large language models and (non-)linguistic recursion",
+    "url": "http://arxiv.org/pdf/2306.07195v1"
+  },
+  {
+    "title": "Automatic Construction of a Korean Toxic Instruction Dataset for Ethical   Tuning of Large Language Models",
+    "url": "http://arxiv.org/pdf/2311.18215v1"
+  },
+  {
+    "title": "Language Guided Exploration for RL Agents in Text Environments",
+    "url": "http://arxiv.org/pdf/2403.03141v1"
+  },
+  {
+    "title": "A Domain-Specific Language for Programming in the Tile Assembly Model",
+    "url": "http://arxiv.org/pdf/0903.0889v1"
+  },
+  {
+    "title": "Strategies for Language Identification in Code-Mixed Low Resource   Languages",
+    "url": "http://arxiv.org/pdf/1810.07156v2"
+  },
+  {
+    "title": "Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum   Learning",
+    "url": "http://arxiv.org/pdf/2203.08555v1"
+  },
+  {
+    "title": "SignBank+: Preparing a Multilingual Sign Language Dataset for Machine   Translation Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2309.11566v2"
+  },
+  {
+    "title": "Cross-lingual Machine Reading Comprehension with Language Branch   Knowledge Distillation",
+    "url": "http://arxiv.org/pdf/2010.14271v1"
+  },
+  {
+    "title": "The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122   Language Variants",
+    "url": "http://arxiv.org/pdf/2308.16884v2"
+  },
+  {
+    "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000   Simulated Cases",
+    "url": "http://arxiv.org/pdf/2306.05301v2"
+  },
+  {
+    "title": "PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning",
+    "url": "http://arxiv.org/pdf/2311.08711v2"
+  },
+  {
+    "title": "Token-wise Decomposition of Autoregressive Language Model Hidden States   for Analyzing Model Predictions",
+    "url": "http://arxiv.org/pdf/2305.10614v2"
+  },
+  {
+    "title": "Computational and Robotic Models of Early Language Development: A Review",
+    "url": "http://arxiv.org/pdf/1903.10246v1"
+  },
+  {
+    "title": "Large-Scale Multilingual Speech Recognition with a Streaming End-to-End   Model",
+    "url": "http://arxiv.org/pdf/1909.05330v1"
+  },
+  {
+    "title": "CTAL: Pre-training Cross-modal Transformer for Audio-and-Language   Representations",
+    "url": "http://arxiv.org/pdf/2109.00181v1"
+  },
+  {
+    "title": "Adapting Monolingual Models: Data can be Scarce when Language Similarity   is High",
+    "url": "http://arxiv.org/pdf/2105.02855v2"
+  },
+  {
+    "title": "Vision Language Transformers: A Survey",
+    "url": "http://arxiv.org/pdf/2307.03254v1"
+  },
+  {
+    "title": "Adapting the adapters for code-switching in multilingual ASR",
+    "url": "http://arxiv.org/pdf/2310.07423v1"
+  },
+  {
+    "title": "The Hidden Space of Transformer Language Adapters",
+    "url": "http://arxiv.org/pdf/2402.13137v2"
+  },
+  {
+    "title": "Chitrarth: Bridging Vision and Language for a Billion People",
+    "url": "http://arxiv.org/pdf/2502.15392v1"
+  },
+  {
+    "title": "Multilingual != Multicultural: Evaluating Gaps Between Multilingual   Capabilities and Cultural Alignment in LLMs",
+    "url": "http://arxiv.org/pdf/2502.16534v1"
+  },
+  {
+    "title": "BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting",
+    "url": "http://arxiv.org/pdf/2212.09535v3"
+  },
+  {
+    "title": "Modeling Vocabulary for Big Code Machine Learning",
+    "url": "http://arxiv.org/pdf/1904.01873v1"
+  },
+  {
+    "title": "Towards Personalized Evaluation of Large Language Models with An   Anonymous Crowd-Sourcing Platform",
+    "url": "http://arxiv.org/pdf/2403.08305v1"
+  },
+  {
+    "title": "Panda LLM: Training Data and Evaluation for Open-Sourced Chinese   Instruction-Following Large Language Models",
+    "url": "http://arxiv.org/pdf/2305.03025v1"
+  },
+  {
+    "title": "Probing Language Models for Understanding of Temporal Expressions",
+    "url": "http://arxiv.org/pdf/2110.01113v1"
+  },
+  {
+    "title": "OpenThaiGPT 1.6 and R1: Thai-Centric Open Source and Reasoning Large   Language Models",
+    "url": "http://arxiv.org/pdf/2504.01789v1"
+  },
+  {
+    "title": "LMSOC: An Approach for Socially Sensitive Pretraining",
+    "url": "http://arxiv.org/pdf/2110.10319v1"
+  },
+  {
+    "title": "PclGPT: A Large Language Model for Patronizing and Condescending   Language Detection",
+    "url": "http://arxiv.org/pdf/2410.00361v1"
+  },
+  {
+    "title": "Stacking Small Language Models for Generalizability",
+    "url": "http://arxiv.org/pdf/2410.15570v1"
+  },
+  {
+    "title": "Bootstrapping Multilingual Semantic Parsers using Large Language Models",
+    "url": "http://arxiv.org/pdf/2210.07313v2"
+  },
+  {
+    "title": "Large language models predict human sensory judgments across six   modalities",
+    "url": "http://arxiv.org/pdf/2302.01308v2"
+  },
+  {
+    "title": "ChatBridge: Bridging Modalities with Large Language Model as a Language   Catalyst",
+    "url": "http://arxiv.org/pdf/2305.16103v1"
+  },
+  {
+    "title": "Large Language Models for Expansion of Spoken Language Understanding   Systems to New Languages",
+    "url": "http://arxiv.org/pdf/2404.02588v1"
+  },
+  {
+    "title": "Table Question Answering for Low-resourced Indic Languages",
+    "url": "http://arxiv.org/pdf/2410.03576v1"
+  },
+  {
+    "title": "SnakModel: Lessons Learned from Training an Open Danish Large Language   Model",
+    "url": "http://arxiv.org/pdf/2412.12956v1"
+  },
+  {
+    "title": "A Large and Diverse Arabic Corpus for Language Modeling",
+    "url": "http://arxiv.org/pdf/2201.09227v3"
+  },
+  {
+    "title": "Evaluating Attribute Comprehension in Large Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2408.13898v1"
+  },
+  {
+    "title": "Retroformer: Retrospective Large Language Agents with Policy Gradient   Optimization",
+    "url": "http://arxiv.org/pdf/2308.02151v3"
+  },
+  {
+    "title": "Scaling Back-Translation with Domain Text Generation for Sign Language   Gloss Translation",
+    "url": "http://arxiv.org/pdf/2210.07054v2"
+  },
+  {
+    "title": "Automated Statistical Model Discovery with Language Models",
+    "url": "http://arxiv.org/pdf/2402.17879v2"
+  },
+  {
+    "title": "Large Multimodal Models: Notes on CVPR 2023 Tutorial",
+    "url": "http://arxiv.org/pdf/2306.14895v1"
+  },
+  {
+    "title": "Linking Emergent and Natural Languages via Corpus Transfer",
+    "url": "http://arxiv.org/pdf/2203.13344v1"
+  },
+  {
+    "title": "Centurio: On Drivers of Multilingual Ability of Large Vision-Language   Model",
+    "url": "http://arxiv.org/pdf/2501.05122v1"
+  },
+  {
+    "title": "Developing a general-purpose clinical language inference model from a   large corpus of clinical notes",
+    "url": "http://arxiv.org/pdf/2210.06566v1"
+  },
+  {
+    "title": "fMRI predictors based on language models of increasing complexity   recover brain left lateralization",
+    "url": "http://arxiv.org/pdf/2405.17992v2"
+  },
+  {
+    "title": "Norm Participation Grounds Language",
+    "url": "http://arxiv.org/pdf/2206.02885v2"
+  },
+  {
+    "title": "Interpretable Unified Language Checking",
+    "url": "http://arxiv.org/pdf/2304.03728v1"
+  },
+  {
+    "title": "Decomposed Prompting for Machine Translation Between Related Languages   using Large Language Models",
+    "url": "http://arxiv.org/pdf/2305.13085v2"
+  },
+  {
+    "title": "Gender Lost In Translation: How Bridging The Gap Between Languages   Affects Gender Bias in Zero-Shot Multilingual Translation",
+    "url": "http://arxiv.org/pdf/2305.16935v1"
+  },
+  {
+    "title": "T3L: Translate-and-Test Transfer Learning for Cross-Lingual Text   Classification",
+    "url": "http://arxiv.org/pdf/2306.04996v1"
+  },
+  {
+    "title": "To Translate or Not to Translate: A Systematic Investigation of   Translation-Based Cross-Lingual Transfer to Low-Resource Languages",
+    "url": "http://arxiv.org/pdf/2311.09404v2"
+  },
+  {
+    "title": "SPML: A DSL for Defending Language Models Against Prompt Attacks",
+    "url": "http://arxiv.org/pdf/2402.11755v1"
+  },
+  {
+    "title": "T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language   Production from Text",
+    "url": "http://arxiv.org/pdf/2406.07119v1"
+  },
+  {
+    "title": "Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual   LLMs: An Extensive Investigation",
+    "url": "http://arxiv.org/pdf/2412.14050v3"
+  },
+  {
+    "title": "Large Language Models as Zero-Shot Conversational Recommenders",
+    "url": "http://arxiv.org/pdf/2308.10053v1"
+  },
+  {
+    "title": "Beyond Word-based Language Model in Statistical Machine Translation",
+    "url": "http://arxiv.org/pdf/1502.01446v1"
+  },
+  {
+    "title": "lamBERT: Language and Action Learning Using Multimodal BERT",
+    "url": "http://arxiv.org/pdf/2004.07093v1"
+  },
+  {
+    "title": "Efficient neural speech synthesis for low-resource languages through   multilingual modeling",
+    "url": "http://arxiv.org/pdf/2008.09659v1"
+  },
+  {
+    "title": "Distilling a Pretrained Language Model to a Multilingual ASR Model",
+    "url": "http://arxiv.org/pdf/2206.12638v1"
+  },
+  {
+    "title": "Preserving Pre-trained Features Helps Calibrate Fine-tuned Language   Models",
+    "url": "http://arxiv.org/pdf/2305.19249v1"
+  },
+  {
+    "title": "Tamil-Llama: A New Tamil Language Model Based on Llama 2",
+    "url": "http://arxiv.org/pdf/2311.05845v1"
+  },
+  {
+    "title": "Carpe Diem: On the Evaluation of World Knowledge in Lifelong Language   Models",
+    "url": "http://arxiv.org/pdf/2311.08106v2"
+  },
+  {
+    "title": "ED-SAM: An Efficient Diffusion Sampling Approach to Domain   Generalization in Vision-Language Foundation Models",
+    "url": "http://arxiv.org/pdf/2406.01432v1"
+  },
+  {
+    "title": "Language Models of Spoken Dutch",
+    "url": "http://arxiv.org/pdf/1709.03759v1"
+  },
+  {
+    "title": "On Speculative Decoding for Multimodal Large Language Models",
+    "url": "http://arxiv.org/pdf/2404.08856v1"
+  },
+  {
+    "title": "COPAL: Continual Pruning in Large Language Generative Models",
+    "url": "http://arxiv.org/pdf/2405.02347v2"
+  },
+  {
+    "title": "xVLM2Vec: Adapting LVLM-based embedding models to multilinguality using   Self-Knowledge Distillation",
+    "url": "http://arxiv.org/pdf/2503.09313v2"
+  },
+  {
+    "title": "Utilizing Resource-Rich Language Datasets for End-to-End Scene Text   Recognition in Resource-Poor Languages",
+    "url": "http://arxiv.org/pdf/2111.12276v1"
+  },
+  {
+    "title": "Large Models of What? Mistaking Engineering Achievements for Human   Linguistic Agency",
+    "url": "http://arxiv.org/pdf/2407.08790v1"
+  },
+  {
+    "title": "MLAN: Language-Based Instruction Tuning Improves Zero-Shot   Generalization of Multimodal Large Language Models",
+    "url": "http://arxiv.org/pdf/2411.10557v2"
+  },
+  {
+    "title": "Open-Source Large Language Models as Multilingual Crowdworkers:   Synthesizing Open-Domain Dialogues in Several Languages With No Examples in   Targets and No Machine Translation",
+    "url": "http://arxiv.org/pdf/2503.03462v1"
+  },
+  {
+    "title": "Drafting Event Schemas using Language Models",
+    "url": "http://arxiv.org/pdf/2305.14847v1"
+  },
+  {
+    "title": "GIT-Mol: A Multi-modal Large Language Model for Molecular Science with   Graph, Image, and Text",
+    "url": "http://arxiv.org/pdf/2308.06911v3"
+  },
+  {
+    "title": "Prompt Injection Attacks in Defended Systems",
+    "url": "http://arxiv.org/pdf/2406.14048v1"
+  },
+  {
+    "title": "CFunModel: A \"Funny\" Language Model Capable of Chinese Humor Generation   and Processing",
+    "url": "http://arxiv.org/pdf/2503.20417v1"
+  },
+  {
+    "title": "InstructionCP: A fast approach to transfer Large Language Models into   target language",
+    "url": "http://arxiv.org/pdf/2405.20175v1"
+  },
+  {
+    "title": "Causality extraction from medical text using Large Language Models   (LLMs)",
+    "url": "http://arxiv.org/pdf/2407.10020v1"
+  },
+  {
+    "title": "OLaLa: Ontology Matching with Large Language Models",
+    "url": "http://arxiv.org/pdf/2311.03837v1"
+  },
+  {
+    "title": "Ranking LLMs by compression",
+    "url": "http://arxiv.org/pdf/2406.14171v1"
+  },
+  {
+    "title": "Enhancing Advanced Visual Reasoning Ability of Large Language Models",
+    "url": "http://arxiv.org/pdf/2409.13980v1"
+  },
+  {
+    "title": "When Large Language Models Meet Personalization: Perspectives of   Challenges and Opportunities",
+    "url": "http://arxiv.org/pdf/2307.16376v1"
+  },
+  {
+    "title": "FILTER: An Enhanced Fusion Method for Cross-lingual Language   Understanding",
+    "url": "http://arxiv.org/pdf/2009.05166v3"
+  },
+  {
+    "title": "Universal Phone Recognition with a Multilingual Allophone System",
+    "url": "http://arxiv.org/pdf/2002.11800v1"
+  },
+  {
+    "title": "VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and   Dataset",
+    "url": "http://arxiv.org/pdf/2304.08345v2"
+  },
+  {
+    "title": "Which Programming Language and What Features at Pre-training Stage   Affect Downstream Logical Inference Performance?",
+    "url": "http://arxiv.org/pdf/2410.06735v1"
+  },
+  {
+    "title": "Training Bilingual LMs with Data Constraints in the Targeted Language",
+    "url": "http://arxiv.org/pdf/2411.12986v2"
+  },
+  {
+    "title": "(Im)possibility of Automated Hallucination Detection in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2504.17004v1"
+  },
+  {
+    "title": "TiBERT: Tibetan Pre-trained Language Model",
+    "url": "http://arxiv.org/pdf/2205.07303v1"
+  },
+  {
+    "title": "Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken   Language Understanding",
+    "url": "http://arxiv.org/pdf/2305.13512v2"
+  },
+  {
+    "title": "Bactrian-X: Multilingual Replicable Instruction-Following Models with   Low-Rank Adaptation",
+    "url": "http://arxiv.org/pdf/2305.15011v2"
+  },
+  {
+    "title": "Calibrating the Confidence of Large Language Models by Eliciting   Fidelity",
+    "url": "http://arxiv.org/pdf/2404.02655v2"
+  },
+  {
+    "title": "Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property   for Perplexity in Generative Language Models",
+    "url": "http://arxiv.org/pdf/2405.13798v3"
+  },
+  {
+    "title": "Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and   Multi-Domain Testing",
+    "url": "http://arxiv.org/pdf/2412.17548v1"
+  },
+  {
+    "title": "Reward Modeling for Mitigating Toxicity in Transformer-based Language   Models",
+    "url": "http://arxiv.org/pdf/2202.09662v6"
+  },
+  {
+    "title": "Brain-Like Language Processing via a Shallow Untrained Multihead   Attention Network",
+    "url": "http://arxiv.org/pdf/2406.15109v1"
+  },
+  {
+    "title": "Unlocking the Potential of Model Merging for Low-Resource Languages",
+    "url": "http://arxiv.org/pdf/2407.03994v3"
+  },
+  {
+    "title": "Evaluating the Elementary Multilingual Capabilities of Large Language   Models with MultiQ",
+    "url": "http://arxiv.org/pdf/2403.03814v2"
+  },
+  {
+    "title": "Harnessing Large Vision and Language Models in Agriculture: A Review",
+    "url": "http://arxiv.org/pdf/2407.19679v1"
+  },
+  {
+    "title": "Overcoming Vocabulary Mismatch: Vocabulary-agnostic Teacher Guided   Language Modeling",
+    "url": "http://arxiv.org/pdf/2503.19123v1"
+  },
+  {
+    "title": "Towards Building ASR Systems for the Next Billion Users",
+    "url": "http://arxiv.org/pdf/2111.03945v3"
+  },
+  {
+    "title": "Language is All a Graph Needs",
+    "url": "http://arxiv.org/pdf/2308.07134v5"
+  },
+  {
+    "title": "Engineering Delta Modeling Languages",
+    "url": "http://arxiv.org/pdf/1408.5756v1"
+  },
+  {
+    "title": "Separated by an Un-common Language: Towards Judgment Language Informed   Vector Space Modeling",
+    "url": "http://arxiv.org/pdf/1508.00106v5"
+  },
+  {
+    "title": "Shapley Head Pruning: Identifying and Removing Interference in   Multilingual Transformers",
+    "url": "http://arxiv.org/pdf/2210.05709v1"
+  },
+  {
+    "title": "Exploiting Phonological Similarities between African Languages to   achieve Speech to Speech Translation",
+    "url": "http://arxiv.org/pdf/2410.23323v1"
+  },
+  {
+    "title": "SimLingo: Vision-Only Closed-Loop Autonomous Driving with   Language-Action Alignment",
+    "url": "http://arxiv.org/pdf/2503.09594v1"
+  },
+  {
+    "title": "UniBERT: Adversarial Training for Language-Universal Representations",
+    "url": "http://arxiv.org/pdf/2503.12608v2"
+  },
+  {
+    "title": "Do Not Fire the Linguist: Grammatical Profiles Help Language Models   Detect Semantic Change",
+    "url": "http://arxiv.org/pdf/2204.05717v1"
+  },
+  {
+    "title": "Geographically-Informed Language Identification",
+    "url": "http://arxiv.org/pdf/2403.09892v1"
+  },
+  {
+    "title": "Language comparison via network topology",
+    "url": "http://arxiv.org/pdf/1907.06944v2"
+  },
+  {
+    "title": "A Latent Space Theory for Emergent Abilities in Large Language Models",
+    "url": "http://arxiv.org/pdf/2304.09960v3"
+  },
+  {
+    "title": "Gender Bias in Large Language Models across Multiple Languages",
+    "url": "http://arxiv.org/pdf/2403.00277v1"
+  },
+  {
+    "title": "Revealing the Parallel Multilingual Learning within Large Language   Models",
+    "url": "http://arxiv.org/pdf/2403.09073v2"
+  },
+  {
+    "title": "1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge   Aggregators?",
+    "url": "http://arxiv.org/pdf/2406.14721v1"
+  },
+  {
+    "title": "ChatZero:Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target   Language",
+    "url": "http://arxiv.org/pdf/2408.08724v1"
+  },
+  {
+    "title": "Large Language Models for Multilingual Previously Fact-Checked Claim   Detection",
+    "url": "http://arxiv.org/pdf/2503.02737v1"
+  },
+  {
+    "title": "Unveiling Language-Specific Features in Large Language Models via Sparse   Autoencoders",
+    "url": "http://arxiv.org/pdf/2505.05111v1"
+  },
+  {
+    "title": "Modeling the Graphotactics of Low-Resource Languages Using Sequential   GANs",
+    "url": "http://arxiv.org/pdf/2210.14409v1"
+  },
+  {
+    "title": "Pretrained Language Models for Dialogue Generation with Multiple Input   Sources",
+    "url": "http://arxiv.org/pdf/2010.07576v1"
+  },
+  {
+    "title": "Multilinguals at SemEval-2022 Task 11: Complex NER in Semantically   Ambiguous Settings for Low Resource Languages",
+    "url": "http://arxiv.org/pdf/2207.06882v1"
+  },
+  {
+    "title": "NoCoLA: The Norwegian Corpus of Linguistic Acceptability",
+    "url": "http://arxiv.org/pdf/2306.07790v1"
+  },
+  {
+    "title": "A Meta-Learning Perspective on Transformers for Causal Language Modeling",
+    "url": "http://arxiv.org/pdf/2310.05884v2"
+  },
+  {
+    "title": "Language Modeling Using Tensor Trains",
+    "url": "http://arxiv.org/pdf/2405.04590v1"
+  },
+  {
+    "title": "The Role of Language Models in Modern Healthcare: A Comprehensive Review",
+    "url": "http://arxiv.org/pdf/2409.16860v1"
+  },
+  {
+    "title": "CodeSCM: Causal Analysis for Multi-Modal Code Generation",
+    "url": "http://arxiv.org/pdf/2502.05150v1"
+  },
+  {
+    "title": "Evaluating Discourse Cohesion in Pre-trained Language Models",
+    "url": "http://arxiv.org/pdf/2503.06137v1"
+  },
+  {
+    "title": "KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large   Vision-Language Models in the Korean Language",
+    "url": "http://arxiv.org/pdf/2503.23730v1"
+  },
+  {
+    "title": "NatLan: Native Language Prompting Facilitates Knowledge Elicitation   Through Language Trigger Provision and Domain Trigger Retention",
+    "url": "http://arxiv.org/pdf/2408.03544v3"
+  },
+  {
+    "title": "Exploring the Multilingual NLG Evaluation Abilities of LLM-Based   Evaluators",
+    "url": "http://arxiv.org/pdf/2503.04360v1"
+  },
+  {
+    "title": "HYPEROFA: Expanding LLM Vocabulary to New Languages via   Hypernetwork-Based Embedding Initialization",
+    "url": "http://arxiv.org/pdf/2504.21018v1"
+  },
+  {
+    "title": "Exploring Large Language Model for Graph Data Understanding in Online   Job Recommendations",
+    "url": "http://arxiv.org/pdf/2307.05722v3"
+  },
+  {
+    "title": "A Primer on Pretrained Multilingual Language Models",
+    "url": "http://arxiv.org/pdf/2107.00676v2"
+  },
+  {
+    "title": "Towards Ontology Construction with Language Models",
+    "url": "http://arxiv.org/pdf/2309.09898v1"
+  },
+  {
+    "title": "LLMs Are Few-Shot In-Context Low-Resource Language Learners",
+    "url": "http://arxiv.org/pdf/2403.16512v5"
+  },
+  {
+    "title": "Language Resources for Dutch Large Language Modelling",
+    "url": "http://arxiv.org/pdf/2312.12852v1"
+  },
+  {
+    "title": "Scaling Vision-Language Models with Sparse Mixture of Experts",
+    "url": "http://arxiv.org/pdf/2303.07226v1"
+  },
+  {
+    "title": "Cross-Lingual Transfer Learning for Question Answering",
+    "url": "http://arxiv.org/pdf/1907.06042v1"
+  },
+  {
+    "title": "Learning and Evaluating Emotion Lexicons for 91 Languages",
+    "url": "http://arxiv.org/pdf/2005.05672v1"
+  },
+  {
+    "title": "Similarity of Sentence Representations in Multilingual LMs: Resolving   Conflicting Literature and Case Study of Baltic Languages",
+    "url": "http://arxiv.org/pdf/2109.01207v4"
+  },
+  {
+    "title": "Continual Learning in Multilingual NMT via Language-Specific Embeddings",
+    "url": "http://arxiv.org/pdf/2110.10478v1"
+  },
+  {
+    "title": "GlotLID: Language Identification for Low-Resource Languages",
+    "url": "http://arxiv.org/pdf/2310.16248v3"
+  },
+  {
+    "title": "AdaCCD: Adaptive Semantic Contrasts Discovery Based Cross Lingual   Adaptation for Code Clone Detection",
+    "url": "http://arxiv.org/pdf/2311.07277v2"
+  },
+  {
+    "title": "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in   Indonesian and Sundanese",
+    "url": "http://arxiv.org/pdf/2402.17302v3"
+  },
+  {
+    "title": "Towards Objectively Benchmarking Social Intelligence for Language Agents   at Action Level",
+    "url": "http://arxiv.org/pdf/2404.05337v1"
+  },
+  {
+    "title": "SambaLingo: Teaching Large Language Models New Languages",
+    "url": "http://arxiv.org/pdf/2404.05829v2"
+  },
+  {
+    "title": "Multilingual Knowledge Editing with Language-Agnostic Factual Neurons",
+    "url": "http://arxiv.org/pdf/2406.16416v2"
+  },
+  {
+    "title": "Kallini et al. (2024) do not compare impossible languages with   constituency-based ones",
+    "url": "http://arxiv.org/pdf/2410.12271v1"
+  },
+  {
+    "title": "Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation",
+    "url": "http://arxiv.org/pdf/2411.16789v1"
+  },
+  {
+    "title": "Building A Unified AI-centric Language System: analysis, framework and   future work",
+    "url": "http://arxiv.org/pdf/2502.04488v1"
+  },
+  {
+    "title": "Franken-Adapter: Cross-Lingual Adaptation of LLMs by Embedding Surgery",
+    "url": "http://arxiv.org/pdf/2502.08037v1"
+  },
+  {
+    "title": "A Technical Report for Polyglot-Ko: Open-Source Large-Scale Korean   Language Models",
+    "url": "http://arxiv.org/pdf/2306.02254v2"
+  },
+  {
+    "title": "From Language to Cognition: How LLMs Outgrow the Human Language Network",
+    "url": "http://arxiv.org/pdf/2503.01830v1"
+  },
+  {
+    "title": "Training Language Models with Language Feedback",
+    "url": "http://arxiv.org/pdf/2204.14146v4"
+  },
+  {
+    "title": "Automatic Control With Human-Like Reasoning: Exploring Language Model   Embodied Air Traffic Agents",
+    "url": "http://arxiv.org/pdf/2409.09717v1"
+  },
+  {
+    "title": "Reusing a Pretrained Language Model on Languages with Limited Corpora   for Unsupervised NMT",
+    "url": "http://arxiv.org/pdf/2009.07610v3"
+  },
+  {
+    "title": "Efficient Spoken Language Recognition via Multilabel Classification",
+    "url": "http://arxiv.org/pdf/2306.01945v1"
+  },
+  {
+    "title": "Multilingual Text Representation",
+    "url": "http://arxiv.org/pdf/2309.00949v1"
+  },
+  {
+    "title": "Recipe for Zero-shot POS Tagging: Is It Useful in Realistic Scenarios?",
+    "url": "http://arxiv.org/pdf/2410.10576v1"
+  },
+  {
+    "title": "Comparative Study of Multilingual Idioms and Similes in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2410.16461v2"
+  },
+  {
+    "title": "LLMs Lost in Translation: M-ALERT uncovers Cross-Linguistic Safety Gaps",
+    "url": "http://arxiv.org/pdf/2412.15035v2"
+  },
+  {
+    "title": "Comparison of Interactive Knowledge Base Spelling Correction Models for   Low-Resource Languages",
+    "url": "http://arxiv.org/pdf/2010.10472v1"
+  },
+  {
+    "title": "Retentive or Forgetful? Diving into the Knowledge Memorizing Mechanism   of Language Models",
+    "url": "http://arxiv.org/pdf/2305.09144v2"
+  },
+  {
+    "title": "From Superficial Patterns to Semantic Understanding: Fine-Tuning   Language Models on Contrast Sets",
+    "url": "http://arxiv.org/pdf/2501.02683v2"
+  },
+  {
+    "title": "Few-Shot Keyword Spotting in Any Language",
+    "url": "http://arxiv.org/pdf/2104.01454v4"
+  },
+  {
+    "title": "IndicBART: A Pre-trained Model for Indic Natural Language Generation",
+    "url": "http://arxiv.org/pdf/2109.02903v2"
+  },
+  {
+    "title": "Neural Language Codes for Multilingual Acoustic Models",
+    "url": "http://arxiv.org/pdf/1807.01956v1"
+  },
+  {
+    "title": "Improving Biomedical Pretrained Language Models with Knowledge",
+    "url": "http://arxiv.org/pdf/2104.10344v1"
+  },
+  {
+    "title": "A Comprehensive Survey of Compression Algorithms for Language Models",
+    "url": "http://arxiv.org/pdf/2401.15347v1"
+  },
+  {
+    "title": "ClinicalMamba: A Generative Clinical Language Model on Longitudinal   Clinical Notes",
+    "url": "http://arxiv.org/pdf/2403.05795v1"
+  },
+  {
+    "title": "Emergent Stack Representations in Modeling Counter Languages Using   Transformers",
+    "url": "http://arxiv.org/pdf/2502.01432v1"
+  },
+  {
+    "title": "Go-tuning: Improving Zero-shot Learning Abilities of Smaller Language   Models",
+    "url": "http://arxiv.org/pdf/2212.10461v1"
+  },
+  {
+    "title": "Prompting Large Language Models to Reformulate Queries for Moment   Localization",
+    "url": "http://arxiv.org/pdf/2306.03422v1"
+  },
+  {
+    "title": "Taxonomy-based CheckList for Large Language Model Evaluation",
+    "url": "http://arxiv.org/pdf/2402.10899v1"
+  },
+  {
+    "title": "Large Language Models as Planning Domain Generators",
+    "url": "http://arxiv.org/pdf/2405.06650v1"
+  },
+  {
+    "title": "Machine Translation with Large Language Models: Decoder Only vs.   Encoder-Decoder",
+    "url": "http://arxiv.org/pdf/2409.13747v1"
+  },
+  {
+    "title": "Towards Large-Scale Data Mining for Data-Driven Analysis of Sign   Languages",
+    "url": "http://arxiv.org/pdf/2006.02120v1"
+  },
+  {
+    "title": "Can Transformers Reason in Fragments of Natural Language?",
+    "url": "http://arxiv.org/pdf/2211.05417v1"
+  },
+  {
+    "title": "Data-Efficient Learning of Natural Language to Linear Temporal Logic   Translators for Robot Task Specification",
+    "url": "http://arxiv.org/pdf/2303.08006v2"
+  },
+  {
+    "title": "Why do universal adversarial attacks work on large language models?:   Geometry might be the answer",
+    "url": "http://arxiv.org/pdf/2309.00254v1"
+  },
+  {
+    "title": "Interpreting Language Models Through Knowledge Graph Extraction",
+    "url": "http://arxiv.org/pdf/2111.08546v1"
+  },
+  {
+    "title": "Likelihood-Based Diffusion Language Models",
+    "url": "http://arxiv.org/pdf/2305.18619v1"
+  },
+  {
+    "title": "Language Model Knowledge Distillation for Efficient Question Answering   in Spanish",
+    "url": "http://arxiv.org/pdf/2312.04193v2"
+  },
+  {
+    "title": "Language Models on a Diet: Cost-Efficient Development of Encoders for   Closely-Related Languages via Additional Pretraining",
+    "url": "http://arxiv.org/pdf/2404.05428v1"
+  },
+  {
+    "title": "SKI Models: Skeleton Induced Vision-Language Embeddings for   Understanding Activities of Daily Living",
+    "url": "http://arxiv.org/pdf/2502.03459v1"
+  },
+  {
+    "title": "Transformer-Based Language Models for Software Vulnerability Detection",
+    "url": "http://arxiv.org/pdf/2204.03214v2"
+  },
+  {
+    "title": "Large Language Models, Knowledge Graphs and Search Engines: A Crossroads   for Answering Users' Questions",
+    "url": "http://arxiv.org/pdf/2501.06699v1"
+  },
+  {
+    "title": "Multilingual Blending: LLM Safety Alignment Evaluation with Language   Mixture",
+    "url": "http://arxiv.org/pdf/2407.07342v1"
+  },
+  {
+    "title": "On the application of Large Language Models for language teaching and   assessment technology",
+    "url": "http://arxiv.org/pdf/2307.08393v1"
+  },
+  {
+    "title": "Prompt Programming for Large Language Models: Beyond the Few-Shot   Paradigm",
+    "url": "http://arxiv.org/pdf/2102.07350v1"
+  },
+  {
+    "title": "Audio Captioning using Pre-Trained Large-Scale Language Model Guided by   Audio-based Similar Caption Retrieval",
+    "url": "http://arxiv.org/pdf/2012.07331v1"
+  },
+  {
+    "title": "Neural Data-to-Text Generation Based on Small Datasets: Comparing the   Added Value of Two Semi-Supervised Learning Approaches on Top of a Large   Language Model",
+    "url": "http://arxiv.org/pdf/2207.06839v1"
+  },
+  {
+    "title": "Data Selection for Fine-tuning Large Language Models Using Transferred   Shapley Values",
+    "url": "http://arxiv.org/pdf/2306.10165v1"
+  },
+  {
+    "title": "Direct Neural Machine Translation with Task-level Mixture of Experts   models",
+    "url": "http://arxiv.org/pdf/2310.12236v2"
+  },
+  {
+    "title": "PHOENIX: Open-Source Language Adaption for Direct Preference   Optimization",
+    "url": "http://arxiv.org/pdf/2401.10580v1"
+  },
+  {
+    "title": "Thematic Analysis with Large Language Models: does it work with   languages other than English? A targeted test in Italian",
+    "url": "http://arxiv.org/pdf/2404.08488v1"
+  },
+  {
+    "title": "BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2405.04756v1"
+  },
+  {
+    "title": "How Well Can Vision Language Models See Image Details?",
+    "url": "http://arxiv.org/pdf/2408.03940v1"
+  },
+  {
+    "title": "An evaluation of LLM code generation capabilities through graded   exercises",
+    "url": "http://arxiv.org/pdf/2410.16292v1"
+  },
+  {
+    "title": "Graph-of-Thought: Utilizing Large Language Models to Solve Complex and   Dynamic Business Problems",
+    "url": "http://arxiv.org/pdf/2401.06801v2"
+  },
+  {
+    "title": "Generative Agent-Based Models for Complex Systems Research: a review",
+    "url": "http://arxiv.org/pdf/2408.09175v1"
+  },
+  {
+    "title": "Radio: Rate-Distortion Optimization for Large Language Model Compression",
+    "url": "http://arxiv.org/pdf/2505.03031v1"
+  },
+  {
+    "title": "Language Quantized AutoEncoders: Towards Unsupervised Text-Image   Alignment",
+    "url": "http://arxiv.org/pdf/2302.00902v2"
+  },
+  {
+    "title": "Meta predictive learning model of languages in neural circuits",
+    "url": "http://arxiv.org/pdf/2309.04106v2"
+  },
+  {
+    "title": "Federated Learning of N-gram Language Models",
+    "url": "http://arxiv.org/pdf/1910.03432v1"
+  },
+  {
+    "title": "TRRG: Towards Truthful Radiology Report Generation With Cross-modal   Disease Clue Enhanced Large Language Model",
+    "url": "http://arxiv.org/pdf/2408.12141v1"
+  },
+  {
+    "title": "History, Development, and Principles of Large Language Models-An   Introductory Survey",
+    "url": "http://arxiv.org/pdf/2402.06853v3"
+  },
+  {
+    "title": "Bridging the Bosphorus: Advancing Turkish Large Language Models through   Strategies for Low-Resource Language Adaptation and Benchmarking",
+    "url": "http://arxiv.org/pdf/2405.04685v1"
+  },
+  {
+    "title": "Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced   Remote Sensing Image Comprehension",
+    "url": "http://arxiv.org/pdf/2411.06074v1"
+  },
+  {
+    "title": "Eliciting the Translation Ability of Large Language Models via   Multilingual Finetuning with Translation Instructions",
+    "url": "http://arxiv.org/pdf/2305.15083v4"
+  },
+  {
+    "title": "CoLAKE: Contextualized Language and Knowledge Embedding",
+    "url": "http://arxiv.org/pdf/2010.00309v1"
+  },
+  {
+    "title": "Are Large Language Model-based Evaluators the Solution to Scaling Up   Multilingual Evaluation?",
+    "url": "http://arxiv.org/pdf/2309.07462v2"
+  },
+  {
+    "title": "Towards Linguistically-Aware and Language-Independent Tokenization for   Large Language Models (LLMs)",
+    "url": "http://arxiv.org/pdf/2410.03568v1"
+  },
+  {
+    "title": "Efficiently Identifying Low-Quality Language Subsets in Multilingual   Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset",
+    "url": "http://arxiv.org/pdf/2410.04292v1"
+  },
+  {
+    "title": "Socially Responsible Data for Large Multilingual Language Models",
+    "url": "http://arxiv.org/pdf/2409.05247v1"
+  },
+  {
+    "title": "The Costly Dilemma: Generalization, Evaluation and Cost-Optimal   Deployment of Large Language Models",
+    "url": "http://arxiv.org/pdf/2308.08061v1"
+  },
+  {
+    "title": "The structure of the token space for large language models",
+    "url": "http://arxiv.org/pdf/2410.08993v1"
+  },
+  {
+    "title": "Adapting Large Language Models for Character-based Augmentative and   Alternative Communication",
+    "url": "http://arxiv.org/pdf/2501.10582v2"
+  },
+  {
+    "title": "Evaluating Concurrent Robustness of Language Models Across Diverse   Challenge Sets",
+    "url": "http://arxiv.org/pdf/2311.08662v3"
+  },
+  {
+    "title": "Non-Markovian Discrete Diffusion with Causal Language Models",
+    "url": "http://arxiv.org/pdf/2502.09767v1"
+  },
+  {
+    "title": "Romanization-based Large-scale Adaptation of Multilingual Language   Models",
+    "url": "http://arxiv.org/pdf/2304.08865v1"
+  },
+  {
+    "title": "Spoken Language Intelligence of Large Language Models for Language   Learning",
+    "url": "http://arxiv.org/pdf/2308.14536v2"
+  },
+  {
+    "title": "All Languages Matter: On the Multilingual Safety of Large Language   Models",
+    "url": "http://arxiv.org/pdf/2310.00905v2"
+  },
+  {
+    "title": "Leashing the Inner Demons: Self-Detoxification for Language Models",
+    "url": "http://arxiv.org/pdf/2203.03072v1"
+  },
+  {
+    "title": "Suvach -- Generated Hindi QA benchmark",
+    "url": "http://arxiv.org/pdf/2404.19254v1"
+  },
+  {
+    "title": "Making Language Models Robust Against Negation",
+    "url": "http://arxiv.org/pdf/2502.07717v1"
+  },
+  {
+    "title": "LaVy: Vietnamese Multimodal Large Language Model",
+    "url": "http://arxiv.org/pdf/2404.07922v6"
+  },
+  {
+    "title": "Large Language Model-Enabled Multi-Agent Manufacturing Systems",
+    "url": "http://arxiv.org/pdf/2406.01893v2"
+  },
+  {
+    "title": "VeCoGen: Automating Generation of Formally Verified C Code with Large   Language Models",
+    "url": "http://arxiv.org/pdf/2411.19275v3"
+  },
+  {
+    "title": "Zero-Shot Cross-Lingual Opinion Target Extraction",
+    "url": "http://arxiv.org/pdf/1904.09122v1"
+  },
+  {
+    "title": "LangSplat: 3D Language Gaussian Splatting",
+    "url": "http://arxiv.org/pdf/2312.16084v2"
+  },
+  {
+    "title": "Tamil Language Computing: the Present and the Future",
+    "url": "http://arxiv.org/pdf/2407.08618v2"
+  },
+  {
+    "title": "Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of   Language Family Experts",
+    "url": "http://arxiv.org/pdf/2410.10626v2"
+  },
+  {
+    "title": "LLM+AL: Bridging Large Language Models and Action Languages for Complex   Reasoning about Actions",
+    "url": "http://arxiv.org/pdf/2501.00830v2"
+  },
+  {
+    "title": "Iconicity in Large Language Models",
+    "url": "http://arxiv.org/pdf/2501.05643v1"
+  },
+  {
+    "title": "On Representational Dissociation of Language and Arithmetic in Large   Language Models",
+    "url": "http://arxiv.org/pdf/2502.11932v1"
+  },
+  {
+    "title": "Explanations of Large Language Models Explain Language Representations   in the Brain",
+    "url": "http://arxiv.org/pdf/2502.14671v3"
+  },
+  {
+    "title": "Shaping Shared Languages: Human and Large Language Models' Inductive   Biases in Emergent Communication",
+    "url": "http://arxiv.org/pdf/2503.04395v1"
+  },
+  {
+    "title": "Datasheet for the Pile",
+    "url": "http://arxiv.org/pdf/2201.07311v1"
+  },
+  {
+    "title": "Reliable, Reproducible, and Really Fast Leaderboards with Evalica",
+    "url": "http://arxiv.org/pdf/2412.11314v1"
+  },
+  {
+    "title": "The birth of Romanian BERT",
+    "url": "http://arxiv.org/pdf/2009.08712v1"
+  },
+  {
+    "title": "In-context Learning Distillation: Transferring Few-shot Learning Ability   of Pre-trained Language Models",
+    "url": "http://arxiv.org/pdf/2212.10670v1"
+  },
+  {
+    "title": "LEALLA: Learning Lightweight Language-agnostic Sentence Embeddings with   Knowledge Distillation",
+    "url": "http://arxiv.org/pdf/2302.08387v2"
+  },
+  {
+    "title": "TrustGPT: A Benchmark for Trustworthy and Responsible Large Language   Models",
+    "url": "http://arxiv.org/pdf/2306.11507v1"
+  },
+  {
+    "title": "Document-Level Language Models for Machine Translation",
+    "url": "http://arxiv.org/pdf/2310.12303v1"
+  },
+  {
+    "title": "Understanding Survey Paper Taxonomy about Large Language Models via   Graph Representation Learning",
+    "url": "http://arxiv.org/pdf/2402.10409v1"
+  },
+  {
+    "title": "Evaluating Large Language Models with Human Feedback: Establishing a   Swedish Benchmark",
+    "url": "http://arxiv.org/pdf/2405.14006v1"
+  },
+  {
+    "title": "Multilingual Code Co-Evolution Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2307.14991v2"
+  },
+  {
+    "title": "BELT:Bootstrapping Electroencephalography-to-Language Decoding and   Zero-Shot Sentiment Classification by Natural Language Supervision",
+    "url": "http://arxiv.org/pdf/2309.12056v2"
+  },
+  {
+    "title": "A Novel Approach for Automatic Program Repair using Round-Trip   Translation with Large Language Models",
+    "url": "http://arxiv.org/pdf/2401.07994v1"
+  },
+  {
+    "title": "Language-Dependent Political Bias in AI: A Study of ChatGPT and Gemini",
+    "url": "http://arxiv.org/pdf/2504.06436v1"
+  },
+  {
+    "title": "FarsEval-PKBETS: A new diverse benchmark for evaluating Persian large   language models",
+    "url": "http://arxiv.org/pdf/2504.14690v1"
+  },
+  {
+    "title": "SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models   for Southeast Asian Languages",
+    "url": "http://arxiv.org/pdf/2407.19672v1"
+  },
+  {
+    "title": "MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model   Evaluation",
+    "url": "http://arxiv.org/pdf/2503.10497v1"
+  },
+  {
+    "title": "Understanding Chinese Video and Language via Contrastive Multimodal   Pre-Training",
+    "url": "http://arxiv.org/pdf/2104.09411v1"
+  },
+  {
+    "title": "Cross-Domain Deep Code Search with Meta Learning",
+    "url": "http://arxiv.org/pdf/2201.00150v6"
+  },
+  {
+    "title": "FPM: A Collection of Large-scale Foundation Pre-trained Language Models",
+    "url": "http://arxiv.org/pdf/2111.04909v3"
+  },
+  {
+    "title": "Compressing Sentence Representation with maximum Coding Rate Reduction",
+    "url": "http://arxiv.org/pdf/2304.12674v1"
+  },
+  {
+    "title": "Adapting Large Language Model with Speech for Fully Formatted End-to-End   Speech Recognition",
+    "url": "http://arxiv.org/pdf/2307.08234v2"
+  },
+  {
+    "title": "UNKs Everywhere: Adapting Multilingual Language Models to New Scripts",
+    "url": "http://arxiv.org/pdf/2012.15562v3"
+  },
+  {
+    "title": "LP-MusicCaps: LLM-Based Pseudo Music Captioning",
+    "url": "http://arxiv.org/pdf/2307.16372v1"
+  },
+  {
+    "title": "FinLLM-B: When Large Language Models Meet Financial Breakout Trading",
+    "url": "http://arxiv.org/pdf/2402.07536v2"
+  },
+  {
+    "title": "Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian   Rebuses",
+    "url": "http://arxiv.org/pdf/2408.00584v1"
+  },
+  {
+    "title": "Investigating Pre-trained Language Models on Cross-Domain Datasets, a   Step Closer to General AI",
+    "url": "http://arxiv.org/pdf/2306.12205v1"
+  },
+  {
+    "title": "Distilling Large Language Models into Tiny and Effective Students using   pQRNN",
+    "url": "http://arxiv.org/pdf/2101.08890v1"
+  },
+  {
+    "title": "Emergent Analogical Reasoning in Large Language Models",
+    "url": "http://arxiv.org/pdf/2212.09196v3"
+  },
+  {
+    "title": "Shai: A large language model for asset management",
+    "url": "http://arxiv.org/pdf/2312.14203v1"
+  },
+  {
+    "title": "Adaptable Logical Control for Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.13892v2"
+  },
+  {
+    "title": "Mixout: Effective Regularization to Finetune Large-scale Pretrained   Language Models",
+    "url": "http://arxiv.org/pdf/1909.11299v2"
+  },
+  {
+    "title": "AugESC: Dialogue Augmentation with Large Language Models for Emotional   Support Conversation",
+    "url": "http://arxiv.org/pdf/2202.13047v3"
+  },
+  {
+    "title": "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal   Conversational Abilities",
+    "url": "http://arxiv.org/pdf/2305.11000v2"
+  },
+  {
+    "title": "Solving and Generating NPR Sunday Puzzles with Large Language Models",
+    "url": "http://arxiv.org/pdf/2306.12255v1"
+  },
+  {
+    "title": "How to Protect Copyright Data in Optimization of Large Language Models?",
+    "url": "http://arxiv.org/pdf/2308.12247v1"
+  },
+  {
+    "title": "Evolving Subnetwork Training for Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.06962v1"
+  },
+  {
+    "title": "Data and Representation for Turkish Natural Language Inference",
+    "url": "http://arxiv.org/pdf/2004.14963v3"
+  },
+  {
+    "title": "KInITVeraAI at SemEval-2023 Task 3: Simple yet Powerful Multilingual   Fine-Tuning for Persuasion Techniques Detection",
+    "url": "http://arxiv.org/pdf/2304.11924v1"
+  },
+  {
+    "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with   Large Language Models",
+    "url": "http://arxiv.org/pdf/2403.10258v3"
+  },
+  {
+    "title": "Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy   Data in Misaligned Languages Suffice?",
+    "url": "http://arxiv.org/pdf/2404.14122v2"
+  },
+  {
+    "title": "Large Language Models for Secure Code Assessment: A Multi-Language   Empirical Study",
+    "url": "http://arxiv.org/pdf/2408.06428v1"
+  },
+  {
+    "title": "Large Language Models Meet Contrastive Learning: Zero-Shot Emotion   Recognition Across Languages",
+    "url": "http://arxiv.org/pdf/2503.21806v1"
+  },
+  {
+    "title": "VidLanKD: Improving Language Understanding via Video-Distilled Knowledge   Transfer",
+    "url": "http://arxiv.org/pdf/2107.02681v2"
+  },
+  {
+    "title": "Supervised Knowledge Makes Large Language Models Better In-context   Learners",
+    "url": "http://arxiv.org/pdf/2312.15918v2"
+  },
+  {
+    "title": "DRUM: Learning Demonstration Retriever for Large MUlti-modal Models",
+    "url": "http://arxiv.org/pdf/2412.07619v1"
+  },
+  {
+    "title": "Language Modeling on a SpiNNaker 2 Neuromorphic Chip",
+    "url": "http://arxiv.org/pdf/2312.09084v3"
+  },
+  {
+    "title": "Specialized Language Models using Dialogue Predictions",
+    "url": "http://arxiv.org/pdf/cmp-lg/9612002v2"
+  },
+  {
+    "title": "LiteVL: Efficient Video-Language Learning with Enhanced Spatial-Temporal   Modeling",
+    "url": "http://arxiv.org/pdf/2210.11929v1"
+  },
+  {
+    "title": "AraELECTRA: Pre-Training Text Discriminators for Arabic Language   Understanding",
+    "url": "http://arxiv.org/pdf/2012.15516v2"
+  },
+  {
+    "title": "A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models",
+    "url": "http://arxiv.org/pdf/2202.08772v1"
+  },
+  {
+    "title": "Language Model Behavior: A Comprehensive Survey",
+    "url": "http://arxiv.org/pdf/2303.11504v2"
+  },
+  {
+    "title": "Igea: a Decoder-Only Language Model for Biomedical Text Generation in   Italian",
+    "url": "http://arxiv.org/pdf/2407.06011v1"
+  },
+  {
+    "title": "Improving Text Embeddings for Smaller Language Models Using Contrastive   Fine-tuning",
+    "url": "http://arxiv.org/pdf/2408.00690v2"
+  },
+  {
+    "title": "Overcoming linguistic barriers in code assistants: creating a QLoRA   adapter to improve support for Russian-language code writing instructions",
+    "url": "http://arxiv.org/pdf/2409.09353v1"
+  },
+  {
+    "title": "Picard understanding Darmok: A Dataset and Model for Metaphor-Rich   Translation in a Constructed Language",
+    "url": "http://arxiv.org/pdf/2107.08146v2"
+  },
+  {
+    "title": "Native Language Identification with Big Bird Embeddings",
+    "url": "http://arxiv.org/pdf/2309.06923v1"
+  },
+  {
+    "title": "Speculative Contrastive Decoding",
+    "url": "http://arxiv.org/pdf/2311.08981v2"
+  },
+  {
+    "title": "Paraphrasing in Affirmative Terms Improves Negation Understanding",
+    "url": "http://arxiv.org/pdf/2406.07492v1"
+  },
+  {
+    "title": "AILS-NTUA at SemEval-2025 Task 8: Language-to-Code prompting and Error   Fixing for Tabular Question Answering",
+    "url": "http://arxiv.org/pdf/2503.00435v2"
+  },
+  {
+    "title": "OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant   based on Instructions and Dialogue",
+    "url": "http://arxiv.org/pdf/2306.12174v2"
+  },
+  {
+    "title": "ERNIE: Enhanced Language Representation with Informative Entities",
+    "url": "http://arxiv.org/pdf/1905.07129v3"
+  },
+  {
+    "title": "Surf at MEDIQA 2019: Improving Performance of Natural Language Inference   in the Clinical Domain by Adopting Pre-trained Language Model",
+    "url": "http://arxiv.org/pdf/1906.07854v1"
+  },
+  {
+    "title": "Large vocabulary speech recognition for languages of Africa:   multilingual modeling and self-supervised learning",
+    "url": "http://arxiv.org/pdf/2208.03067v2"
+  },
+  {
+    "title": "Shortcut Learning of Large Language Models in Natural Language   Understanding",
+    "url": "http://arxiv.org/pdf/2208.11857v2"
+  },
+  {
+    "title": "Dissociating language and thought in large language models",
+    "url": "http://arxiv.org/pdf/2301.06627v3"
+  },
+  {
+    "title": "Evaluating statistical language models as pragmatic reasoners",
+    "url": "http://arxiv.org/pdf/2305.01020v1"
+  },
+  {
+    "title": "Searching for Needles in a Haystack: On the Role of Incidental   Bilingualism in PaLM's Translation Capability",
+    "url": "http://arxiv.org/pdf/2305.10266v1"
+  },
+  {
+    "title": "Are Large Language Models Robust Coreference Resolvers?",
+    "url": "http://arxiv.org/pdf/2305.14489v2"
+  },
+  {
+    "title": "Embedding structure matters: Comparing methods to adapt multilingual   vocabularies to new languages",
+    "url": "http://arxiv.org/pdf/2309.04679v2"
+  },
+  {
+    "title": "Stochastic LLMs do not Understand Language: Towards Symbolic,   Explainable and Ontologically Based LLMs",
+    "url": "http://arxiv.org/pdf/2309.05918v3"
+  },
+  {
+    "title": "Construction contract risk identification based on knowledge-augmented   language model",
+    "url": "http://arxiv.org/pdf/2309.12626v1"
+  },
+  {
+    "title": "The Ups and Downs of Large Language Model Inference with Vocabulary   Trimming by Language Heuristics",
+    "url": "http://arxiv.org/pdf/2311.09709v2"
+  },
+  {
+    "title": "Analyzing the Evaluation of Cross-Lingual Knowledge Transfer in   Multilingual Language Models",
+    "url": "http://arxiv.org/pdf/2402.02099v1"
+  },
+  {
+    "title": "ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large   Language Models",
+    "url": "http://arxiv.org/pdf/2404.02318v3"
+  },
+  {
+    "title": "Teaching a Multilingual Large Language Model to Understand Multilingual   Speech via Multi-Instructional Training",
+    "url": "http://arxiv.org/pdf/2404.10922v1"
+  },
+  {
+    "title": "Large Language Models for Dysfluency Detection in Stuttered Speech",
+    "url": "http://arxiv.org/pdf/2406.11025v1"
+  },
+  {
+    "title": "Large Language Model-based FMRI Encoding of Language Functions for   Subjects with Neurocognitive Disorder",
+    "url": "http://arxiv.org/pdf/2407.10376v1"
+  },
+  {
+    "title": "Inside the Black Box: Detecting Data Leakage in Pre-trained Language   Encoders",
+    "url": "http://arxiv.org/pdf/2408.11046v1"
+  },
+  {
+    "title": "A-VL: Adaptive Attention for Large Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2409.14846v2"
+  },
+  {
+    "title": "Thank You, Stingray: Multilingual Large Language Models Can Not (Yet)   Disambiguate Cross-Lingual Word Sense",
+    "url": "http://arxiv.org/pdf/2410.21573v2"
+  },
+  {
+    "title": "Natural Language Understanding and Inference with MLLM in Visual   Question Answering: A Survey",
+    "url": "http://arxiv.org/pdf/2411.17558v1"
+  },
+  {
+    "title": "Language Games as the Pathway to Artificial Superhuman Intelligence",
+    "url": "http://arxiv.org/pdf/2501.18924v1"
+  },
+  {
+    "title": "Evaluating Polish linguistic and cultural competency in large language   models",
+    "url": "http://arxiv.org/pdf/2503.00995v1"
+  },
+  {
+    "title": "Valid Text-to-SQL Generation with Unification-based DeepStochLog",
+    "url": "http://arxiv.org/pdf/2503.13342v1"
+  },
+  {
+    "title": "LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal   Delivery Based on Agentic UAVs",
+    "url": "http://arxiv.org/pdf/2505.03460v1"
+  },
+  {
+    "title": "The Impact of Large Language Multi-Modal Models on the Future of Job   Market",
+    "url": "http://arxiv.org/pdf/2304.06123v1"
+  },
+  {
+    "title": "Accelerating Knowledge Graph and Ontology Engineering with Large   Language Models",
+    "url": "http://arxiv.org/pdf/2411.09601v1"
+  },
+  {
+    "title": "PaLI: A Jointly-Scaled Multilingual Language-Image Model",
+    "url": "http://arxiv.org/pdf/2209.06794v4"
+  },
+  {
+    "title": "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.07356v1"
+  },
+  {
+    "title": "RoleEval: A Bilingual Role Evaluation Benchmark for Large Language   Models",
+    "url": "http://arxiv.org/pdf/2312.16132v2"
+  },
+  {
+    "title": "Automatic deductive coding in discourse analysis: an application of   large language models in learning analytics",
+    "url": "http://arxiv.org/pdf/2410.01240v1"
+  },
+  {
+    "title": "Subword-Level Language Identification for Intra-Word Code-Switching",
+    "url": "http://arxiv.org/pdf/1904.01989v1"
+  },
+  {
+    "title": "Compositional Languages Emerge in a Neural Iterated Learning Model",
+    "url": "http://arxiv.org/pdf/2002.01365v2"
+  },
+  {
+    "title": "Learning Natural Language Generation from Scratch",
+    "url": "http://arxiv.org/pdf/2109.09371v1"
+  },
+  {
+    "title": "XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal   Expression Extraction",
+    "url": "http://arxiv.org/pdf/2205.01757v1"
+  },
+  {
+    "title": "Detecting and Exorcising Statistical Demons from Language Models with   Anti-Models of Negative Data",
+    "url": "http://arxiv.org/pdf/2010.11855v1"
+  },
+  {
+    "title": "ElChat: Adapting Chat Language Models Using Only Target Unlabeled   Language Data",
+    "url": "http://arxiv.org/pdf/2412.11704v3"
+  },
+  {
+    "title": "Estimating the Personality of White-Box Language Models",
+    "url": "http://arxiv.org/pdf/2204.12000v2"
+  },
+  {
+    "title": "Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk",
+    "url": "http://arxiv.org/pdf/2207.00735v1"
+  },
+  {
+    "title": "Blacks is to Anger as Whites is to Joy? Understanding Latent Affective   Bias in Large Pre-trained Neural Language Models",
+    "url": "http://arxiv.org/pdf/2301.09003v1"
+  },
+  {
+    "title": "Applying SoftTriple Loss for Supervised Language Model Fine Tuning",
+    "url": "http://arxiv.org/pdf/2112.08462v1"
+  },
+  {
+    "title": "Very Large Language Model as a Unified Methodology of Text Mining",
+    "url": "http://arxiv.org/pdf/2212.09271v2"
+  },
+  {
+    "title": "Explaining Large Language Model-Based Neural Semantic Parsers (Student   Abstract)",
+    "url": "http://arxiv.org/pdf/2301.13820v1"
+  },
+  {
+    "title": "Large Language Models",
+    "url": "http://arxiv.org/pdf/2307.05782v2"
+  },
+  {
+    "title": "Get the gist? Using large language models for few-shot   decontextualization",
+    "url": "http://arxiv.org/pdf/2310.06254v1"
+  },
+  {
+    "title": "A Survey on Large Language Models for Personalized and Explainable   Recommendations",
+    "url": "http://arxiv.org/pdf/2311.12338v1"
+  },
+  {
+    "title": "Classifying complex documents: comparing bespoke solutions to large   language models",
+    "url": "http://arxiv.org/pdf/2312.07182v1"
+  },
+  {
+    "title": "Memory, Consciousness and Large Language Model",
+    "url": "http://arxiv.org/pdf/2401.02509v2"
+  },
+  {
+    "title": "Examining Forgetting in Continual Pre-training of Aligned Large Language   Models",
+    "url": "http://arxiv.org/pdf/2401.03129v1"
+  },
+  {
+    "title": "Accelerating Neural Networks for Large Language Models and Graph   Processing with Silicon Photonics",
+    "url": "http://arxiv.org/pdf/2401.06885v1"
+  },
+  {
+    "title": "Reducing Large Language Model Bias with Emphasis on 'Restricted   Industries': Automated Dataset Augmentation and Prejudice Quantification",
+    "url": "http://arxiv.org/pdf/2403.13925v1"
+  },
+  {
+    "title": "Towards Enabling FAIR Dataspaces Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2403.15451v1"
+  },
+  {
+    "title": "Revisiting subword tokenization: A case study on affixal negation in   large language models",
+    "url": "http://arxiv.org/pdf/2404.02421v2"
+  },
+  {
+    "title": "Captioning Visualizations with Large Language Models (CVLLM): A Tutorial",
+    "url": "http://arxiv.org/pdf/2406.19512v1"
+  },
+  {
+    "title": "Generative Large Language Models in Automated Fact-Checking: A Survey",
+    "url": "http://arxiv.org/pdf/2407.02351v2"
+  },
+  {
+    "title": "From Words to Worlds: Compositionality for Cognitive Architectures",
+    "url": "http://arxiv.org/pdf/2407.13419v1"
+  },
+  {
+    "title": "DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for   type classification",
+    "url": "http://arxiv.org/pdf/2408.14236v1"
+  },
+  {
+    "title": "Benchmarking Large Language Model Uncertainty for Prompt Optimization",
+    "url": "http://arxiv.org/pdf/2409.10044v2"
+  },
+  {
+    "title": "Context-Aware Membership Inference Attacks against Pre-trained Large   Language Models",
+    "url": "http://arxiv.org/pdf/2409.13745v1"
+  },
+  {
+    "title": "Context and System Fusion in Post-ASR Emotion Recognition with Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.03312v1"
+  },
+  {
+    "title": "On the Influence of Gender and Race in Romantic Relationship Prediction   from Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.03996v1"
+  },
+  {
+    "title": "A Novel Approach to Eliminating Hallucinations in Large Language   Model-Assisted Causal Discovery",
+    "url": "http://arxiv.org/pdf/2411.12759v1"
+  },
+  {
+    "title": "Refusal Behavior in Large Language Models: A Nonlinear Perspective",
+    "url": "http://arxiv.org/pdf/2501.08145v1"
+  },
+  {
+    "title": "DOCS: Quantifying Weight Similarity for Deeper Insights into Large   Language Models",
+    "url": "http://arxiv.org/pdf/2501.16650v1"
+  },
+  {
+    "title": "Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating   Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.11707v1"
+  },
+  {
+    "title": "Pitfalls of Scale: Investigating the Inverse Task of Redefinition in   Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.12821v1"
+  },
+  {
+    "title": "A Survey of Uncertainty Estimation Methods on Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.00172v1"
+  },
+  {
+    "title": "AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for   Large Language Models using Data Chunking",
+    "url": "http://arxiv.org/pdf/2503.02443v1"
+  },
+  {
+    "title": "From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect   Extraction for Aspect-Based Sentiment Analysis with Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.20715v1"
+  },
+  {
+    "title": "SemEval-2025 Task 4: Unlearning sensitive content from Large Language   Models",
+    "url": "http://arxiv.org/pdf/2504.02883v1"
+  },
+  {
+    "title": "Out-of-the-Box Conditional Text Embeddings from Large Language Models",
+    "url": "http://arxiv.org/pdf/2504.16411v1"
+  },
+  {
+    "title": "GOFA: A Generative One-For-All Model for Joint Graph Language Modeling",
+    "url": "http://arxiv.org/pdf/2407.09709v2"
+  },
+  {
+    "title": "SLMRec: Distilling Large Language Models into Small for Sequential   Recommendation",
+    "url": "http://arxiv.org/pdf/2405.17890v4"
+  },
+  {
+    "title": "Synthesizing Monolingual Data for Neural Machine Translation",
+    "url": "http://arxiv.org/pdf/2101.12462v1"
+  },
+  {
+    "title": "On Protecting the Data Privacy of Large Language Models (LLMs): A Survey",
+    "url": "http://arxiv.org/pdf/2403.05156v2"
+  },
+  {
+    "title": "Few-Shot Multilingual Open-Domain QA from 5 Examples",
+    "url": "http://arxiv.org/pdf/2502.19722v1"
+  },
+  {
+    "title": "LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large   Language Models",
+    "url": "http://arxiv.org/pdf/2406.09008v2"
+  },
+  {
+    "title": "LLMs for Explainable AI: A Comprehensive Survey",
+    "url": "http://arxiv.org/pdf/2504.00125v1"
+  },
+  {
+    "title": "Effective Transfer Learning for Low-Resource Natural Language   Understanding",
+    "url": "http://arxiv.org/pdf/2208.09180v1"
+  },
+  {
+    "title": "Unveiling the potential of large language models in generating semantic   and cross-language clones",
+    "url": "http://arxiv.org/pdf/2309.06424v1"
+  },
+  {
+    "title": "Aya Model: An Instruction Finetuned Open-Access Multilingual Language   Model",
+    "url": "http://arxiv.org/pdf/2402.07827v1"
+  },
+  {
+    "title": "Language in Vivo vs. in Silico: Size Matters but Larger Language Models   Still Do Not Comprehend Language on a Par with Humans",
+    "url": "http://arxiv.org/pdf/2404.14883v2"
+  },
+  {
+    "title": "Chronologically Accurate Retrieval for Temporal Grounding of   Motion-Language Models",
+    "url": "http://arxiv.org/pdf/2407.15408v1"
+  },
+  {
+    "title": "The Empirical Impact of Data Sanitization on Language Models",
+    "url": "http://arxiv.org/pdf/2411.05978v1"
+  },
+  {
+    "title": "Towards Data-Efficient Language Models: A Child-Inspired Approach to   Language Learning",
+    "url": "http://arxiv.org/pdf/2503.04611v1"
+  },
+  {
+    "title": "Non-native Speaker Verification for Spoken Language Assessment",
+    "url": "http://arxiv.org/pdf/1909.13695v1"
+  },
+  {
+    "title": "Open-Domain Sign Language Translation Learned from Online Video",
+    "url": "http://arxiv.org/pdf/2205.12870v2"
+  },
+  {
+    "title": "Language-Independent Representor for Neural Machine Translation",
+    "url": "http://arxiv.org/pdf/1811.00258v1"
+  },
+  {
+    "title": "Exploiting Language Relatedness in Machine Translation Through Domain   Adaptation Techniques",
+    "url": "http://arxiv.org/pdf/2303.01793v1"
+  },
+  {
+    "title": "What Do Dialect Speakers Want? A Survey of Attitudes Towards Language   Technology for German Dialects",
+    "url": "http://arxiv.org/pdf/2402.11968v2"
+  },
+  {
+    "title": "Building pre-train LLM Dataset for the INDIC Languages: a case study on   Hindi",
+    "url": "http://arxiv.org/pdf/2407.09855v1"
+  },
+  {
+    "title": "Multi-Modal Grounded Planning and Efficient Replanning For Learning   Embodied Agents with A Few Examples",
+    "url": "http://arxiv.org/pdf/2412.17288v1"
+  },
+  {
+    "title": "Real-Time Execution of Large-scale Language Models on Mobile",
+    "url": "http://arxiv.org/pdf/2009.06823v2"
+  },
+  {
+    "title": "Large Language Models for Compiler Optimization",
+    "url": "http://arxiv.org/pdf/2309.07062v1"
+  },
+  {
+    "title": "Heaps' Law in GPT-Neo Large Language Model Emulated Corpora",
+    "url": "http://arxiv.org/pdf/2311.06377v1"
+  },
+  {
+    "title": "Evolving Knowledge Distillation with Large Language Models and Active   Learning",
+    "url": "http://arxiv.org/pdf/2403.06414v1"
+  },
+  {
+    "title": "LLAVADI: What Matters For Multimodal Large Language Models Distillation",
+    "url": "http://arxiv.org/pdf/2407.19409v1"
+  },
+  {
+    "title": "What are Models Thinking about? Understanding Large Language Model   Hallucinations \"Psychology\" through Model Inner State Analysis",
+    "url": "http://arxiv.org/pdf/2502.13490v1"
+  },
+  {
+    "title": "Cognitive Architectures for Language Agents",
+    "url": "http://arxiv.org/pdf/2309.02427v3"
+  },
+  {
+    "title": "Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help   Multiple Graph Applications",
+    "url": "http://arxiv.org/pdf/2306.02592v1"
+  },
+  {
+    "title": "Training Language Models to Reason Efficiently",
+    "url": "http://arxiv.org/pdf/2502.04463v2"
+  },
+  {
+    "title": "Large-scale Cloze Test Dataset Created by Teachers",
+    "url": "http://arxiv.org/pdf/1711.03225v3"
+  },
+  {
+    "title": "Entity Linking in 100 Languages",
+    "url": "http://arxiv.org/pdf/2011.02690v1"
+  },
+  {
+    "title": "MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue   Generation",
+    "url": "http://arxiv.org/pdf/2208.08629v1"
+  },
+  {
+    "title": "Validating Large Language Models with ReLM",
+    "url": "http://arxiv.org/pdf/2211.15458v2"
+  },
+  {
+    "title": "Improved Long-Form Spoken Language Translation with Large Language   Models",
+    "url": "http://arxiv.org/pdf/2212.09895v1"
+  },
+  {
+    "title": "A Bibliometric Review of Large Language Models Research from 2017 to   2023",
+    "url": "http://arxiv.org/pdf/2304.02020v1"
+  },
+  {
+    "title": "Comparative Analysis of CHATGPT and the evolution of language models",
+    "url": "http://arxiv.org/pdf/2304.02468v1"
+  },
+  {
+    "title": "Augmented Large Language Models with Parametric Knowledge Guiding",
+    "url": "http://arxiv.org/pdf/2305.04757v2"
+  },
+  {
+    "title": "GPT-SW3: An Autoregressive Language Model for the Nordic Languages",
+    "url": "http://arxiv.org/pdf/2305.12987v3"
+  },
+  {
+    "title": "Data Distribution Bottlenecks in Grounding Language Models to Knowledge   Bases",
+    "url": "http://arxiv.org/pdf/2309.08345v3"
+  },
+  {
+    "title": "API Pack: A Massive Multi-Programming Language Dataset for API Call   Generation",
+    "url": "http://arxiv.org/pdf/2402.09615v6"
+  },
+  {
+    "title": "FAC$^2$E: Better Understanding Large Language Model Capabilities by   Dissociating Language and Cognition",
+    "url": "http://arxiv.org/pdf/2403.00126v2"
+  },
+  {
+    "title": "LM4OPT: Unveiling the Potential of Large Language Models in Formulating   Mathematical Optimization Problems",
+    "url": "http://arxiv.org/pdf/2403.01342v1"
+  },
+  {
+    "title": "Empirical Studies of Parameter Efficient Methods for Large Language   Models of Code and Knowledge Transfer to R",
+    "url": "http://arxiv.org/pdf/2405.01553v2"
+  },
+  {
+    "title": "M-RAG: Reinforcing Large Language Model Performance through   Retrieval-Augmented Generation with Multiple Partitions",
+    "url": "http://arxiv.org/pdf/2405.16420v1"
+  },
+  {
+    "title": "A multi-level multi-label text classification dataset of 19th century   Ottoman and Russian literary and critical texts",
+    "url": "http://arxiv.org/pdf/2407.15136v1"
+  },
+  {
+    "title": "Consistent Autoformalization for Constructing Mathematical Libraries",
+    "url": "http://arxiv.org/pdf/2410.04194v1"
+  },
+  {
+    "title": "Investigating the Role of Prompting and External Tools in Hallucination   Rates of Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.19385v1"
+  },
+  {
+    "title": "Linguistics Theory Meets LLM: Code-Switched Text Generation via   Equivalence Constrained Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.22660v1"
+  },
+  {
+    "title": "Learn from the Past: Language-conditioned Object Rearrangement with   Large Language Models",
+    "url": "http://arxiv.org/pdf/2501.18516v2"
+  },
+  {
+    "title": "ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and   Synthesis of Data",
+    "url": "http://arxiv.org/pdf/2502.05567v1"
+  },
+  {
+    "title": "Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in   Procedural Text Comprehension",
+    "url": "http://arxiv.org/pdf/2502.14315v1"
+  },
+  {
+    "title": "High-Dimensional Interlingual Representations of Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.11280v3"
+  },
+  {
+    "title": "Who Wrote This? Identifying Machine vs Human-Generated Text in Hausa",
+    "url": "http://arxiv.org/pdf/2503.13101v1"
+  },
+  {
+    "title": "Pensez: Less Data, Better Reasoning -- Rethinking French LLM",
+    "url": "http://arxiv.org/pdf/2503.13661v1"
+  },
+  {
+    "title": "From \"Hallucination\" to \"Suture\": Insights from Language Philosophy to   Enhance Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.14392v1"
+  },
+  {
+    "title": "Rosetta-PL: Propositional Logic as a Benchmark for Large Language Model   Reasoning",
+    "url": "http://arxiv.org/pdf/2505.00001v2"
+  },
+  {
+    "title": "Plug-and-Play Conversational Models",
+    "url": "http://arxiv.org/pdf/2010.04344v1"
+  },
+  {
+    "title": "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated   Training for Multimodal Large Language Models",
+    "url": "http://arxiv.org/pdf/2408.04275v2"
+  },
+  {
+    "title": "Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud   Computing Environments",
+    "url": "http://arxiv.org/pdf/2503.12228v1"
+  },
+  {
+    "title": "Urdu-English Machine Transliteration using Neural Networks",
+    "url": "http://arxiv.org/pdf/2001.05296v1"
+  },
+  {
+    "title": "Energy-based Models are Zero-Shot Planners for Compositional Scene   Rearrangement",
+    "url": "http://arxiv.org/pdf/2304.14391v4"
+  },
+  {
+    "title": "BiPhone: Modeling Inter Language Phonetic Influences in Text",
+    "url": "http://arxiv.org/pdf/2307.03322v1"
+  },
+  {
+    "title": "CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large   Language Models in 167 Languages",
+    "url": "http://arxiv.org/pdf/2309.09400v1"
+  },
+  {
+    "title": "Finetuned Language Models Are Zero-Shot Learners",
+    "url": "http://arxiv.org/pdf/2109.01652v5"
+  },
+  {
+    "title": "Explanation Graph Generation via Pre-trained Language Models: An   Empirical Study with Contrastive Learning",
+    "url": "http://arxiv.org/pdf/2204.04813v1"
+  },
+  {
+    "title": "What Do Compressed Multilingual Machine Translation Models Forget?",
+    "url": "http://arxiv.org/pdf/2205.10828v4"
+  },
+  {
+    "title": "A Mathematical Exploration of Why Language Models Help Solve Downstream   Tasks",
+    "url": "http://arxiv.org/pdf/2010.03648v2"
+  },
+  {
+    "title": "e-ViL: A Dataset and Benchmark for Natural Language Explanations in   Vision-Language Tasks",
+    "url": "http://arxiv.org/pdf/2105.03761v2"
+  },
+  {
+    "title": "Model-based analysis of brain activity reveals the hierarchy of language   in 305 subjects",
+    "url": "http://arxiv.org/pdf/2110.06078v1"
+  },
+  {
+    "title": "A Simple Multi-Modality Transfer Learning Baseline for Sign Language   Translation",
+    "url": "http://arxiv.org/pdf/2203.04287v2"
+  },
+  {
+    "title": "A Cohesive Distillation Architecture for Neural Language Models",
+    "url": "http://arxiv.org/pdf/2301.08130v2"
+  },
+  {
+    "title": "Harnessing the Power of BERT in the Turkish Clinical Domain: Pretraining   Approaches for Limited Data Scenarios",
+    "url": "http://arxiv.org/pdf/2305.03788v1"
+  },
+  {
+    "title": "BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model   with Non-textual Features for CTR Prediction",
+    "url": "http://arxiv.org/pdf/2308.11527v1"
+  },
+  {
+    "title": "FactLLaMA: Optimizing Instruction-Following Language Models with   External Knowledge for Automated Fact-Checking",
+    "url": "http://arxiv.org/pdf/2309.00240v1"
+  },
+  {
+    "title": "Automatic Unit Test Data Generation and Actor-Critic Reinforcement   Learning for Code Synthesis",
+    "url": "http://arxiv.org/pdf/2310.13669v1"
+  },
+  {
+    "title": "CodeS: Towards Building Open-source Language Models for Text-to-SQL",
+    "url": "http://arxiv.org/pdf/2402.16347v1"
+  },
+  {
+    "title": "SpikeLM: Towards General Spike-Driven Language Modeling via Elastic   Bi-Spiking Mechanisms",
+    "url": "http://arxiv.org/pdf/2406.03287v1"
+  },
+  {
+    "title": "TabSD: Large Free-Form Table Question Answering with SQL-Based Table   Decomposition",
+    "url": "http://arxiv.org/pdf/2502.13422v1"
+  },
+  {
+    "title": "ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language   Understanding and Generation",
+    "url": "http://arxiv.org/pdf/2107.02137v1"
+  },
+  {
+    "title": "Predicting language diversity with complex network",
+    "url": "http://arxiv.org/pdf/1704.08359v1"
+  },
+  {
+    "title": "Contrastive Learning of Emoji-based Representations for Resource-Poor   Languages",
+    "url": "http://arxiv.org/pdf/1804.01855v1"
+  },
+  {
+    "title": "Investigating Multilingual NMT Representations at Scale",
+    "url": "http://arxiv.org/pdf/1909.02197v2"
+  },
+  {
+    "title": "Neural Language Generation: Formulation, Methods, and Evaluation",
+    "url": "http://arxiv.org/pdf/2007.15780v1"
+  },
+  {
+    "title": "Multilingual Mix: Example Interpolation Improves Multilingual Neural   Machine Translation",
+    "url": "http://arxiv.org/pdf/2203.07627v1"
+  },
+  {
+    "title": "Is Word Error Rate a good evaluation metric for Speech Recognition in   Indic Languages?",
+    "url": "http://arxiv.org/pdf/2203.16601v3"
+  },
+  {
+    "title": "OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal   Regression",
+    "url": "http://arxiv.org/pdf/2206.02338v2"
+  },
+  {
+    "title": "Improving CLIP Training with Language Rewrites",
+    "url": "http://arxiv.org/pdf/2305.20088v2"
+  },
+  {
+    "title": "The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64   Languages",
+    "url": "http://arxiv.org/pdf/2310.14557v1"
+  },
+  {
+    "title": "UrbanCLIP: Learning Text-enhanced Urban Region Profiling with   Contrastive Language-Image Pretraining from the Web",
+    "url": "http://arxiv.org/pdf/2310.18340v2"
+  },
+  {
+    "title": "Lyrics: Boosting Fine-grained Language-Vision Alignment and   Comprehension via Semantic-aware Visual Objects",
+    "url": "http://arxiv.org/pdf/2312.05278v2"
+  },
+  {
+    "title": "Language-Agnostic Modeling of Wikipedia Articles for Content Quality   Assessment across Languages",
+    "url": "http://arxiv.org/pdf/2404.09764v1"
+  },
+  {
+    "title": "Bridging the Gap: Dynamic Learning Strategies for Improving Multilingual   Performance in LLMs",
+    "url": "http://arxiv.org/pdf/2405.18359v1"
+  },
+  {
+    "title": "What Languages are Easy to Language-Model? A Perspective from Learning   Probabilistic Regular Languages",
+    "url": "http://arxiv.org/pdf/2406.04289v5"
+  },
+  {
+    "title": "Input Conditioned Graph Generation for Language Agents",
+    "url": "http://arxiv.org/pdf/2406.11555v1"
+  },
+  {
+    "title": "X-ALMA: Plug & Play Modules and Adaptive Rejection for Quality   Translation at Scale",
+    "url": "http://arxiv.org/pdf/2410.03115v2"
+  },
+  {
+    "title": "Chatting with Logs: An exploratory study on Finetuning LLMs for LogQL",
+    "url": "http://arxiv.org/pdf/2412.03612v1"
+  },
+  {
+    "title": "A Behavior Tree-inspired programming language for autonomous agents",
+    "url": "http://arxiv.org/pdf/2412.08654v1"
+  },
+  {
+    "title": "A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction   Following",
+    "url": "http://arxiv.org/pdf/2501.08187v2"
+  },
+  {
+    "title": "Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing   Efficiency Through Vocabulary Adaptation",
+    "url": "http://arxiv.org/pdf/2504.17025v1"
+  },
+  {
+    "title": "QAmeleon: Multilingual QA with Only 5 Examples",
+    "url": "http://arxiv.org/pdf/2211.08264v2"
+  },
+  {
+    "title": "GenSpectrum Chat: Data Exploration in Public Health Using Large Language   Models",
+    "url": "http://arxiv.org/pdf/2305.13821v1"
+  },
+  {
+    "title": "Encode-Store-Retrieve: Augmenting Human Memory through Language-Encoded   Egocentric Perception",
+    "url": "http://arxiv.org/pdf/2308.05822v3"
+  },
+  {
+    "title": "Evaluation and Enhancement of Semantic Grounding in Large   Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2309.04041v2"
+  },
+  {
+    "title": "Bridging Items and Language: A Transition Paradigm for Large Language   Model-Based Recommendation",
+    "url": "http://arxiv.org/pdf/2310.06491v2"
+  },
+  {
+    "title": "\"Mistakes Help Us Grow\": Facilitating and Evaluating Growth Mindset   Supportive Language in Classrooms",
+    "url": "http://arxiv.org/pdf/2310.10637v1"
+  },
+  {
+    "title": "DRESS: Instructing Large Vision-Language Models to Align and Interact   with Humans via Natural Language Feedback",
+    "url": "http://arxiv.org/pdf/2311.10081v2"
+  },
+  {
+    "title": "Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning   in Large Language Models",
+    "url": "http://arxiv.org/pdf/2404.03622v3"
+  },
+  {
+    "title": "Benchmarking Retrieval-Augmented Large Language Models in Biomedical   NLP: Application, Robustness, and Self-Awareness",
+    "url": "http://arxiv.org/pdf/2405.08151v2"
+  },
+  {
+    "title": "Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language   Models",
+    "url": "http://arxiv.org/pdf/2406.04300v1"
+  },
+  {
+    "title": "Training and Evaluating Language Models with Template-based Data   Generation",
+    "url": "http://arxiv.org/pdf/2411.18104v3"
+  },
+  {
+    "title": "Counterfactually Probing Language Identity in Multilingual Models",
+    "url": "http://arxiv.org/pdf/2310.18862v1"
+  },
+  {
+    "title": "Certified Robustness for Large Language Models with Self-Denoising",
+    "url": "http://arxiv.org/pdf/2307.07171v1"
+  },
+  {
+    "title": "RadOnc-GPT: A Large Language Model for Radiation Oncology",
+    "url": "http://arxiv.org/pdf/2309.10160v3"
+  },
+  {
+    "title": "HILGEN: Hierarchically-Informed Data Generation for Biomedical NER Using   Knowledgebases and Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.04930v1"
+  },
+  {
+    "title": "Pre-Trained Neural Language Models for Automatic Mobile App User   Feedback Answer Generation",
+    "url": "http://arxiv.org/pdf/2202.02294v1"
+  },
+  {
+    "title": "LiLiuM: eBay's Large Language Models for e-commerce",
+    "url": "http://arxiv.org/pdf/2406.12023v1"
+  },
+  {
+    "title": "LLaMA-Omni: Seamless Speech Interaction with Large Language Models",
+    "url": "http://arxiv.org/pdf/2409.06666v2"
+  },
+  {
+    "title": "The Limited Impact of Medical Adaptation of Large Language and   Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2411.08870v2"
+  },
+  {
+    "title": "Knowledge-Augmented Language Model and its Application to Unsupervised   Named-Entity Recognition",
+    "url": "http://arxiv.org/pdf/1904.04458v2"
+  },
+  {
+    "title": "Towards Conceptual Modeling Semantics: Eventizing Tarski's Truth Schema",
+    "url": "http://arxiv.org/pdf/2011.01608v1"
+  },
+  {
+    "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+    "url": "http://arxiv.org/pdf/2212.03827v2"
+  },
+  {
+    "title": "GujiBERT and GujiGPT: Construction of Intelligent Information Processing   Foundation Language Models for Ancient Texts",
+    "url": "http://arxiv.org/pdf/2307.05354v1"
+  },
+  {
+    "title": "EVLM: An Efficient Vision-Language Model for Visual Understanding",
+    "url": "http://arxiv.org/pdf/2407.14177v1"
+  },
+  {
+    "title": "Prompting Encoder Models for Zero-Shot Classification: A Cross-Domain   Study in Italian",
+    "url": "http://arxiv.org/pdf/2407.20654v1"
+  },
+  {
+    "title": "ViLBench: A Suite for Vision-Language Process Reward Modeling",
+    "url": "http://arxiv.org/pdf/2503.20271v1"
+  },
+  {
+    "title": "Leveraging Language Models for Automated Patient Record Linkage",
+    "url": "http://arxiv.org/pdf/2504.15261v1"
+  },
+  {
+    "title": "NER-BERT: A Pre-trained Model for Low-Resource Entity Tagging",
+    "url": "http://arxiv.org/pdf/2112.00405v1"
+  },
+  {
+    "title": "Response Generation with Context-Aware Prompt Learning",
+    "url": "http://arxiv.org/pdf/2111.02643v5"
+  },
+  {
+    "title": "InPars: Data Augmentation for Information Retrieval using Large Language   Models",
+    "url": "http://arxiv.org/pdf/2202.05144v1"
+  },
+  {
+    "title": "Can Large Language Models Change User Preference Adversarially?",
+    "url": "http://arxiv.org/pdf/2302.10291v1"
+  },
+  {
+    "title": "LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale   Instructions",
+    "url": "http://arxiv.org/pdf/2304.14402v3"
+  },
+  {
+    "title": "MoEController: Instruction-based Arbitrary Image Manipulation with   Mixture-of-Expert Controllers",
+    "url": "http://arxiv.org/pdf/2309.04372v2"
+  },
+  {
+    "title": "AWEQ: Post-Training Quantization with Activation-Weight Equalization for   Large Language Models",
+    "url": "http://arxiv.org/pdf/2311.01305v3"
+  },
+  {
+    "title": "HeLM: Highlighted Evidence augmented Language Model for Enhanced   Table-to-Text Generation",
+    "url": "http://arxiv.org/pdf/2311.08896v2"
+  },
+  {
+    "title": "Exploring the Robustness of Decentralized Training for Large Language   Models",
+    "url": "http://arxiv.org/pdf/2312.00843v1"
+  },
+  {
+    "title": "An Explainable AI Approach to Large Language Model Assisted Causal Model   Auditing and Development",
+    "url": "http://arxiv.org/pdf/2312.16211v1"
+  },
+  {
+    "title": "Social-LLM: Modeling User Behavior at Scale using Language Models and   Social Network Data",
+    "url": "http://arxiv.org/pdf/2401.00893v1"
+  },
+  {
+    "title": "World Models with Hints of Large Language Models for Goal Achieving",
+    "url": "http://arxiv.org/pdf/2406.07381v1"
+  },
+  {
+    "title": "Are Large Language Models Consistent over Value-laden Questions?",
+    "url": "http://arxiv.org/pdf/2407.02996v2"
+  },
+  {
+    "title": "Image Inpainting Models are Effective Tools for Instruction-guided Image   Editing",
+    "url": "http://arxiv.org/pdf/2407.13139v1"
+  },
+  {
+    "title": "Integrating Large Language Models into a Tri-Modal Architecture for   Automated Depression Classification on the DAIC-WOZ",
+    "url": "http://arxiv.org/pdf/2407.19340v5"
+  },
+  {
+    "title": "Deploying Open-Source Large Language Models: A performance Analysis",
+    "url": "http://arxiv.org/pdf/2409.14887v3"
+  },
+  {
+    "title": "LLM-ProS: Analyzing Large Language Models' Performance in Competitive   Problem Solving",
+    "url": "http://arxiv.org/pdf/2502.04355v1"
+  },
+  {
+    "title": "LLMInit: A Free Lunch from Large Language Models for Selective   Initialization of Recommendation",
+    "url": "http://arxiv.org/pdf/2503.01814v1"
+  },
+  {
+    "title": "From Captions to Rewards (CAREVL): Leveraging Large Language Model   Experts for Enhanced Reward Modeling in Large Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2503.06260v1"
+  },
+  {
+    "title": "ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica   Code Generation",
+    "url": "http://arxiv.org/pdf/2503.18460v1"
+  },
+  {
+    "title": "Assessing Generative Models for Structured Data",
+    "url": "http://arxiv.org/pdf/2503.20903v1"
+  },
+  {
+    "title": "Secret Breach Detection in Source Code with Large Language Models",
+    "url": "http://arxiv.org/pdf/2504.18784v1"
+  },
+  {
+    "title": "OWL: A Large Language Model for IT Operations",
+    "url": "http://arxiv.org/pdf/2309.09298v2"
+  },
+  {
+    "title": "MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language   Models using 2D Priors",
+    "url": "http://arxiv.org/pdf/2405.01413v1"
+  },
+  {
+    "title": "Personalized Multimodal Large Language Models: A Survey",
+    "url": "http://arxiv.org/pdf/2412.02142v1"
+  },
+  {
+    "title": "Visual-Language Navigation Pretraining via Prompt-based Environmental   Self-exploration",
+    "url": "http://arxiv.org/pdf/2203.04006v1"
+  },
+  {
+    "title": "Imaginations of WALL-E : Reconstructing Experiences with an   Imagination-Inspired Module for Advanced AI Systems",
+    "url": "http://arxiv.org/pdf/2308.10354v1"
+  },
+  {
+    "title": "DetectGPT-SC: Improving Detection of Text Generated by Large Language   Models through Self-Consistency with Masked Predictions",
+    "url": "http://arxiv.org/pdf/2310.14479v1"
+  },
+  {
+    "title": "This is not a Dataset: A Large Negation Benchmark to Challenge Large   Language Models",
+    "url": "http://arxiv.org/pdf/2310.15941v1"
+  },
+  {
+    "title": "LLMGA: Multimodal Large Language Model based Generation Assistant",
+    "url": "http://arxiv.org/pdf/2311.16500v4"
+  },
+  {
+    "title": "Identifying and Analyzing Performance-Critical Tokens in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2401.11323v3"
+  },
+  {
+    "title": "K-Level Reasoning: Establishing Higher Order Beliefs in Large Language   Models for Strategic Reasoning",
+    "url": "http://arxiv.org/pdf/2402.01521v2"
+  },
+  {
+    "title": "AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large   Language Models",
+    "url": "http://arxiv.org/pdf/2403.15157v2"
+  },
+  {
+    "title": "LMO-DP: Optimizing the Randomization Mechanism for Differentially   Private Fine-Tuning (Large) Language Models",
+    "url": "http://arxiv.org/pdf/2405.18776v1"
+  },
+  {
+    "title": "Unlocking the Future: Exploring Look-Ahead Planning Mechanistic   Interpretability in Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.16033v1"
+  },
+  {
+    "title": "LLMs Plagiarize: Ensuring Responsible Sourcing of Large Language Model   Training Data Through Knowledge Graph Comparison",
+    "url": "http://arxiv.org/pdf/2407.02659v2"
+  },
+  {
+    "title": "Implicit Geometry of Next-token Prediction: From Language Sparsity   Patterns to Model Representations",
+    "url": "http://arxiv.org/pdf/2408.15417v2"
+  },
+  {
+    "title": "Emotion-Conditioned Text Generation through Automatic Prompt   Optimization",
+    "url": "http://arxiv.org/pdf/2308.04857v1"
+  },
+  {
+    "title": "Exploring Linguistic Similarity and Zero-Shot Learning for Multilingual   Translation of Dravidian Languages",
+    "url": "http://arxiv.org/pdf/2308.05574v1"
+  },
+  {
+    "title": "Large Language Models for Telecom: Forthcoming Impact on the Industry",
+    "url": "http://arxiv.org/pdf/2308.06013v2"
+  },
+  {
+    "title": "AutoConv: Automatically Generating Information-seeking Conversations   with Large Language Models",
+    "url": "http://arxiv.org/pdf/2308.06507v1"
+  },
+  {
+    "title": "ChatHaruhi: Reviving Anime Character in Reality via Large Language Model",
+    "url": "http://arxiv.org/pdf/2308.09597v1"
+  },
+  {
+    "title": "An Examination of the Compositionality of Large Generative   Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2308.10509v2"
+  },
+  {
+    "title": "Diversity Measures: Domain-Independent Proxies for Failure in Language   Model Queries",
+    "url": "http://arxiv.org/pdf/2308.11189v1"
+  },
+  {
+    "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language   Reasoning",
+    "url": "http://arxiv.org/pdf/2309.01256v1"
+  },
+  {
+    "title": "Evaluating the Deductive Competence of Large Language Models",
+    "url": "http://arxiv.org/pdf/2309.05452v2"
+  },
+  {
+    "title": "Using Large Language Models for Knowledge Engineering (LLMKE): A Case   Study on Wikidata",
+    "url": "http://arxiv.org/pdf/2309.08491v1"
+  },
+  {
+    "title": "Rethinking STS and NLI in Large Language Models",
+    "url": "http://arxiv.org/pdf/2309.08969v2"
+  },
+  {
+    "title": "Towards LLM-based Autograding for Short Textual Answers",
+    "url": "http://arxiv.org/pdf/2309.11508v2"
+  },
+  {
+    "title": "Towards Effective Disambiguation for Machine Translation with Large   Language Models",
+    "url": "http://arxiv.org/pdf/2309.11668v2"
+  },
+  {
+    "title": "EvalLM: Interactive Evaluation of Large Language Model Prompts on   User-Defined Criteria",
+    "url": "http://arxiv.org/pdf/2309.13633v2"
+  },
+  {
+    "title": "NLPBench: Evaluating Large Language Models on Solving NLP Problems",
+    "url": "http://arxiv.org/pdf/2309.15630v4"
+  },
+  {
+    "title": "BTR: Binary Token Representations for Efficient Retrieval Augmented   Language Models",
+    "url": "http://arxiv.org/pdf/2310.01329v2"
+  },
+  {
+    "title": "Harnessing the Power of Large Language Models for Empathetic Response   Generation: Empirical Investigations and Improvements",
+    "url": "http://arxiv.org/pdf/2310.05140v4"
+  },
+  {
+    "title": "MenatQA: A New Dataset for Testing the Temporal Comprehension and   Reasoning Abilities of Large Language Models",
+    "url": "http://arxiv.org/pdf/2310.05157v1"
+  },
+  {
+    "title": "H2O Open Ecosystem for State-of-the-art Large Language Models",
+    "url": "http://arxiv.org/pdf/2310.13012v2"
+  },
+  {
+    "title": "NameGuess: Column Name Expansion for Tabular Data",
+    "url": "http://arxiv.org/pdf/2310.13196v1"
+  },
+  {
+    "title": "From Static to Dynamic: A Continual Learning Framework for Large   Language Models",
+    "url": "http://arxiv.org/pdf/2310.14248v1"
+  },
+  {
+    "title": "NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling   Social Norm Adherence and Violation",
+    "url": "http://arxiv.org/pdf/2310.14563v2"
+  },
+  {
+    "title": "SkyMath: Technical Report",
+    "url": "http://arxiv.org/pdf/2310.16713v2"
+  },
+  {
+    "title": "A Communication Theory Perspective on Prompting Engineering Methods for   Large Language Models",
+    "url": "http://arxiv.org/pdf/2310.18358v1"
+  },
+  {
+    "title": "The Eval4NLP 2023 Shared Task on Prompting Large Language Models as   Explainable Metrics",
+    "url": "http://arxiv.org/pdf/2310.19792v1"
+  },
+  {
+    "title": "Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data   Generation with Large Language Models",
+    "url": "http://arxiv.org/pdf/2311.00287v2"
+  },
+  {
+    "title": "Can ChatGPT support software verification?",
+    "url": "http://arxiv.org/pdf/2311.02433v1"
+  },
+  {
+    "title": "Characterizing Large Language Models as Rationalizers of   Knowledge-intensive Tasks",
+    "url": "http://arxiv.org/pdf/2311.05085v2"
+  },
+  {
+    "title": "Enhancing Computation Efficiency in Large Language Models through Weight   and Activation Quantization",
+    "url": "http://arxiv.org/pdf/2311.05161v2"
+  },
+  {
+    "title": "Prompt Engineering a Prompt Engineer",
+    "url": "http://arxiv.org/pdf/2311.05661v3"
+  },
+  {
+    "title": "AuthentiGPT: Detecting Machine-Generated Text via Black-Box Language   Models Denoising",
+    "url": "http://arxiv.org/pdf/2311.07700v1"
+  },
+  {
+    "title": "Disinformation Capabilities of Large Language Models",
+    "url": "http://arxiv.org/pdf/2311.08838v2"
+  },
+  {
+    "title": "Walking a Tightrope -- Evaluating Large Language Models in High-Risk   Domains",
+    "url": "http://arxiv.org/pdf/2311.14966v1"
+  },
+  {
+    "title": "Benchmarking Large Language Model Volatility",
+    "url": "http://arxiv.org/pdf/2311.15180v1"
+  },
+  {
+    "title": "Large Language Models Suffer From Their Own Output: An Analysis of the   Self-Consuming Training Loop",
+    "url": "http://arxiv.org/pdf/2311.16822v2"
+  },
+  {
+    "title": "Mitigating Object Hallucinations in Large Vision-Language Models through   Visual Contrastive Decoding",
+    "url": "http://arxiv.org/pdf/2311.16922v1"
+  },
+  {
+    "title": "Good Questions Help Zero-Shot Image Reasoning",
+    "url": "http://arxiv.org/pdf/2312.01598v2"
+  },
+  {
+    "title": "Simul-LLM: A Framework for Exploring High-Quality Simultaneous   Translation with Large Language Models",
+    "url": "http://arxiv.org/pdf/2312.04691v4"
+  },
+  {
+    "title": "EQ-Bench: An Emotional Intelligence Benchmark for Large Language Models",
+    "url": "http://arxiv.org/pdf/2312.06281v2"
+  },
+  {
+    "title": "Remote Sensing Vision-Language Foundation Models without Annotations via   Ground Remote Alignment",
+    "url": "http://arxiv.org/pdf/2312.06960v1"
+  },
+  {
+    "title": "Generative linguistic representation for spoken language identification",
+    "url": "http://arxiv.org/pdf/2312.10964v1"
+  },
+  {
+    "title": "Towards Boosting Many-to-Many Multilingual Machine Translation with   Large Language Models",
+    "url": "http://arxiv.org/pdf/2401.05861v2"
+  },
+  {
+    "title": "Lost in the Source Language: How Large Language Models Evaluate the   Quality of Machine Translation",
+    "url": "http://arxiv.org/pdf/2401.06568v2"
+  },
+  {
+    "title": "RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2401.09432v2"
+  },
+  {
+    "title": "A Cross-Language Investigation into Jailbreak Attacks in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2401.16765v1"
+  },
+  {
+    "title": "Efficient Non-Parametric Uncertainty Quantification for Black-Box Large   Language Models and Decision Planning",
+    "url": "http://arxiv.org/pdf/2402.00251v1"
+  },
+  {
+    "title": "InferCept: Efficient Intercept Support for Augmented Large Language   Model Inference",
+    "url": "http://arxiv.org/pdf/2402.01869v2"
+  },
+  {
+    "title": "Had enough of experts? Quantitative knowledge retrieval from large   language models",
+    "url": "http://arxiv.org/pdf/2402.07770v2"
+  },
+  {
+    "title": "ProtChatGPT: Towards Understanding Proteins with Large Language Models",
+    "url": "http://arxiv.org/pdf/2402.09649v2"
+  },
+  {
+    "title": "Towards Uncovering How Large Language Model Works: An Explainability   Perspective",
+    "url": "http://arxiv.org/pdf/2402.10688v2"
+  },
+  {
+    "title": "Inference to the Best Explanation in Large Language Models",
+    "url": "http://arxiv.org/pdf/2402.10767v2"
+  },
+  {
+    "title": "When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for   Large Language Models",
+    "url": "http://arxiv.org/pdf/2402.11100v2"
+  },
+  {
+    "title": "I Learn Better If You Speak My Language: Understanding the Superior   Performance of Fine-Tuning Large Language Models with LLM-Generated Responses",
+    "url": "http://arxiv.org/pdf/2402.11192v4"
+  },
+  {
+    "title": "Visual In-Context Learning for Large Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2402.11574v1"
+  },
+  {
+    "title": "The Lay Person's Guide to Biomedicine: Orchestrating Large Language   Models",
+    "url": "http://arxiv.org/pdf/2402.13498v1"
+  },
+  {
+    "title": "BBA: Bi-Modal Behavioral Alignment for Reasoning with Large   Vision-Language Models",
+    "url": "http://arxiv.org/pdf/2402.13577v1"
+  },
+  {
+    "title": "Likelihood-based Mitigation of Evaluation Bias in Large Language Models",
+    "url": "http://arxiv.org/pdf/2402.15987v3"
+  },
+  {
+    "title": "Deep Learning Approaches for Improving Question Answering Systems in   Hepatocellular Carcinoma Research",
+    "url": "http://arxiv.org/pdf/2402.16038v1"
+  },
+  {
+    "title": "LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by   Long-Short-Term Prompting",
+    "url": "http://arxiv.org/pdf/2402.16132v1"
+  },
+  {
+    "title": "Data Augmentation using Large Language Models: Data Perspectives,   Learning Paradigms and Challenges",
+    "url": "http://arxiv.org/pdf/2403.02990v4"
+  },
+  {
+    "title": "Benchmarking Hallucination in Large Language Models based on   Unanswerable Math Word Problem",
+    "url": "http://arxiv.org/pdf/2403.03558v1"
+  },
+  {
+    "title": "Big City Bias: Evaluating the Impact of Metropolitan Size on   Computational Job Market Abilities of Language Models",
+    "url": "http://arxiv.org/pdf/2403.08046v1"
+  },
+  {
+    "title": "Large Language Models and Causal Inference in Collaboration: A Survey",
+    "url": "http://arxiv.org/pdf/2403.09606v3"
+  },
+  {
+    "title": "SelfIE: Self-Interpretation of Large Language Model Embeddings",
+    "url": "http://arxiv.org/pdf/2403.10949v2"
+  },
+  {
+    "title": "Characteristic AI Agents via Large Language Models",
+    "url": "http://arxiv.org/pdf/2403.12368v1"
+  },
+  {
+    "title": "EDT: Improving Large Language Models' Generation by Entropy-based   Dynamic Temperature Sampling",
+    "url": "http://arxiv.org/pdf/2403.14541v2"
+  },
+  {
+    "title": "Improving Attributed Text Generation of Large Language Models via   Preference Learning",
+    "url": "http://arxiv.org/pdf/2403.18381v1"
+  },
+  {
+    "title": "CQIL: Inference Latency Optimization with Concurrent Computation of   Quasi-Independent Layers",
+    "url": "http://arxiv.org/pdf/2404.06709v2"
+  },
+  {
+    "title": "Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions",
+    "url": "http://arxiv.org/pdf/2404.09135v1"
+  },
+  {
+    "title": "Towards Logically Consistent Language Models via Probabilistic Reasoning",
+    "url": "http://arxiv.org/pdf/2404.12843v1"
+  },
+  {
+    "title": "Personalized Wireless Federated Learning for Large Language Models",
+    "url": "http://arxiv.org/pdf/2404.13238v1"
+  },
+  {
+    "title": "CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models   of Code",
+    "url": "http://arxiv.org/pdf/2404.15639v3"
+  },
+  {
+    "title": "CRE-LLM: A Domain-Specific Chinese Relation Extraction Framework with   Fine-tuned Large Language Model",
+    "url": "http://arxiv.org/pdf/2404.18085v1"
+  },
+  {
+    "title": "LEGENT: Open Platform for Embodied Agents",
+    "url": "http://arxiv.org/pdf/2404.18243v2"
+  },
+  {
+    "title": "Leveraging Large Language Models in Human-Robot Interaction: A Critical   Analysis of Potential and Pitfalls",
+    "url": "http://arxiv.org/pdf/2405.00693v2"
+  },
+  {
+    "title": "Assessing Adversarial Robustness of Large Language Models: An Empirical   Study",
+    "url": "http://arxiv.org/pdf/2405.02764v2"
+  },
+  {
+    "title": "Gaussian Stochastic Weight Averaging for Bayesian Low-Rank Adaptation of   Large Language Models",
+    "url": "http://arxiv.org/pdf/2405.03425v2"
+  },
+  {
+    "title": "Adaptable and Reliable Text Classification using Large Language Models",
+    "url": "http://arxiv.org/pdf/2405.10523v3"
+  },
+  {
+    "title": "Medical Dialogue: A Survey of Categories, Methods, Evaluation and   Challenges",
+    "url": "http://arxiv.org/pdf/2405.10630v1"
+  },
+  {
+    "title": "Do Language Models Enjoy Their Own Stories? Prompting Large Language   Models for Automatic Story Evaluation",
+    "url": "http://arxiv.org/pdf/2405.13769v1"
+  },
+  {
+    "title": "$T^2$ of Thoughts: Temperature Tree Elicits Reasoning in Large Language   Models",
+    "url": "http://arxiv.org/pdf/2405.14075v2"
+  },
+  {
+    "title": "Semantic Importance-Aware Communications with Semantic Correction Using   Large Language Models",
+    "url": "http://arxiv.org/pdf/2405.16011v1"
+  },
+  {
+    "title": "SelfCP: Compressing Over-Limit Prompt via the Frozen Large Language   Model Itself",
+    "url": "http://arxiv.org/pdf/2405.17052v2"
+  },
+  {
+    "title": "XPrompt:Explaining Large Language Model's Generation via Joint Prompt   Attribution",
+    "url": "http://arxiv.org/pdf/2405.20404v1"
+  },
+  {
+    "title": "Large Language Models: A New Approach for Privacy Policy Analysis at   Scale",
+    "url": "http://arxiv.org/pdf/2405.20900v1"
+  },
+  {
+    "title": "Transforming Computer Security and Public Trust Through the Exploration   of Fine-Tuning Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.00628v1"
+  },
+  {
+    "title": "Analyzing Social Biases in Japanese Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.02050v3"
+  },
+  {
+    "title": "FLUID-LLM: Learning Computational Fluid Dynamics with   Spatiotemporal-aware Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.04501v1"
+  },
+  {
+    "title": "llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power   of Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.04528v1"
+  },
+  {
+    "title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+    "url": "http://arxiv.org/pdf/2406.04692v1"
+  },
+  {
+    "title": "Transforming Dental Diagnostics with Artificial Intelligence: Advanced   Integration of ChatGPT and Large Language Models for Patient Care",
+    "url": "http://arxiv.org/pdf/2406.06616v1"
+  },
+  {
+    "title": "Paying More Attention to Source Context: Mitigating Unfaithful   Translations from Large Language Model",
+    "url": "http://arxiv.org/pdf/2406.07036v1"
+  },
+  {
+    "title": "DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation   through Dual Learning Feedback Mechanisms",
+    "url": "http://arxiv.org/pdf/2406.07232v2"
+  },
+  {
+    "title": "Exploring Large Language Models for Relevance Judgments in Tetun",
+    "url": "http://arxiv.org/pdf/2406.07299v1"
+  },
+  {
+    "title": "DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech   Units for Spoken Language Understanding",
+    "url": "http://arxiv.org/pdf/2406.09345v1"
+  },
+  {
+    "title": "TRIP-PAL: Travel Planning with Guarantees by Combining Large Language   Models and Automated Planners",
+    "url": "http://arxiv.org/pdf/2406.10196v1"
+  },
+  {
+    "title": "ResearchArena: Benchmarking Large Language Models' Ability to Collect   and Organize Information as Research Agents",
+    "url": "http://arxiv.org/pdf/2406.10291v2"
+  },
+  {
+    "title": "From Intentions to Techniques: A Comprehensive Taxonomy and Challenges   in Text Watermarking for Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.11106v1"
+  },
+  {
+    "title": "Large Language Models and Knowledge Graphs for Astronomical Entity   Disambiguation",
+    "url": "http://arxiv.org/pdf/2406.11400v1"
+  },
+  {
+    "title": "COMMUNITY-CROSS-INSTRUCT: Unsupervised Instruction Generation for   Aligning Large Language Models to Online Communities",
+    "url": "http://arxiv.org/pdf/2406.12074v3"
+  },
+  {
+    "title": "Large scale paired antibody language models",
+    "url": "http://arxiv.org/pdf/2403.17889v1"
+  },
+  {
+    "title": "Fine-tuning Large Language Models for Automated Diagnostic Screening   Summaries",
+    "url": "http://arxiv.org/pdf/2403.20145v2"
+  },
+  {
+    "title": "Prior Constraints-based Reward Model Training for Aligning Large   Language Models",
+    "url": "http://arxiv.org/pdf/2404.00978v2"
+  },
+  {
+    "title": "Conifer: Improving Complex Constrained Instruction-Following Ability of   Large Language Models",
+    "url": "http://arxiv.org/pdf/2404.02823v1"
+  },
+  {
+    "title": "Adversarial Representation Engineering: A General Model Editing   Framework for Large Language Models",
+    "url": "http://arxiv.org/pdf/2404.13752v3"
+  },
+  {
+    "title": "Adversarial Attacks and Defense for Conversation Entailment Task",
+    "url": "http://arxiv.org/pdf/2405.00289v2"
+  },
+  {
+    "title": "Addressing Topic Granularity and Hallucination in Large Language Models   for Topic Modelling",
+    "url": "http://arxiv.org/pdf/2405.00611v1"
+  },
+  {
+    "title": "Exploring Combinatorial Problem Solving with Large Language Models: A   Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo",
+    "url": "http://arxiv.org/pdf/2405.01997v1"
+  },
+  {
+    "title": "OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework",
+    "url": "http://arxiv.org/pdf/2405.11143v4"
+  },
+  {
+    "title": "Basis Selection: Low-Rank Decomposition of Pretrained Large Language   Models for Target Applications",
+    "url": "http://arxiv.org/pdf/2405.15877v1"
+  },
+  {
+    "title": "Exploring and steering the moral compass of Large Language Models",
+    "url": "http://arxiv.org/pdf/2405.17345v2"
+  },
+  {
+    "title": "Unveiling Selection Biases: Exploring Order and Token Sensitivity in   Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.03009v1"
+  },
+  {
+    "title": "LocLLM: Exploiting Generalizable Human Keypoint Localization via Large   Language Model",
+    "url": "http://arxiv.org/pdf/2406.04659v1"
+  },
+  {
+    "title": "A Large Language Model Pipeline for Breast Cancer Oncology",
+    "url": "http://arxiv.org/pdf/2406.06455v2"
+  },
+  {
+    "title": "Threat Modelling and Risk Analysis for Large Language Model   (LLM)-Powered Applications",
+    "url": "http://arxiv.org/pdf/2406.11007v1"
+  },
+  {
+    "title": "CItruS: Chunked Instruction-aware State Eviction for Long Sequence   Modeling",
+    "url": "http://arxiv.org/pdf/2406.12018v2"
+  },
+  {
+    "title": "Opt-Out: Investigating Entity-Level Unlearning for Large Language Models   via Optimal Transport",
+    "url": "http://arxiv.org/pdf/2406.12329v2"
+  },
+  {
+    "title": "PaCoST: Paired Confidence Significance Testing for Benchmark   Contamination Detection in Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.18326v2"
+  },
+  {
+    "title": "LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of   Large Language Models",
+    "url": "http://arxiv.org/pdf/2406.20030v1"
+  },
+  {
+    "title": "Collaborative Performance Prediction for Large Language Models",
+    "url": "http://arxiv.org/pdf/2407.01300v2"
+  },
+  {
+    "title": "Evaluating Language Model Context Windows: A \"Working Memory\" Test and   Inference-time Correction",
+    "url": "http://arxiv.org/pdf/2407.03651v2"
+  },
+  {
+    "title": "Text2TimeSeries: Enhancing Financial Forecasting through Time Series   Prediction Updates with Event-Driven Insights from Large Language Models",
+    "url": "http://arxiv.org/pdf/2407.03689v1"
+  },
+  {
+    "title": "LLMAEL: Large Language Models are Good Context Augmenters for Entity   Linking",
+    "url": "http://arxiv.org/pdf/2407.04020v2"
+  },
+  {
+    "title": "Review-LLM: Harnessing Large Language Models for Personalized Review   Generation",
+    "url": "http://arxiv.org/pdf/2407.07487v1"
+  },
+  {
+    "title": "Training on the Test Task Confounds Evaluation and Emergence",
+    "url": "http://arxiv.org/pdf/2407.07890v3"
+  },
+  {
+    "title": "Large Language Models as Misleading Assistants in Conversation",
+    "url": "http://arxiv.org/pdf/2407.11789v1"
+  },
+  {
+    "title": "BoRA: Bayesian Hierarchical Low-Rank Adaption for Multi-Task Large   Language Models",
+    "url": "http://arxiv.org/pdf/2407.15857v2"
+  },
+  {
+    "title": "LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models",
+    "url": "http://arxiv.org/pdf/2407.19185v1"
+  },
+  {
+    "title": "The Mismeasure of Man and Models: Evaluating Allocational Harms in Large   Language Models",
+    "url": "http://arxiv.org/pdf/2408.01285v1"
+  },
+  {
+    "title": "Coalitions of Large Language Models Increase the Robustness of AI Agents",
+    "url": "http://arxiv.org/pdf/2408.01380v1"
+  },
+  {
+    "title": "A Few-Shot Approach for Relation Extraction Domain Adaptation using   Large Language Models",
+    "url": "http://arxiv.org/pdf/2408.02377v1"
+  },
+  {
+    "title": "Enhancing Healthcare through Large Language Models: A Study on Medical   Question Answering",
+    "url": "http://arxiv.org/pdf/2408.04138v1"
+  },
+  {
+    "title": "Using Large Language Models to Compare Explainable Models for Smart Home   Human Activity Recognition",
+    "url": "http://arxiv.org/pdf/2408.06352v1"
+  },
+  {
+    "title": "Predicting Lung Cancer Patient Prognosis with Large Language Models",
+    "url": "http://arxiv.org/pdf/2408.07971v1"
+  },
+  {
+    "title": "MGH Radiology Llama: A Llama 3 70B Model for Radiology",
+    "url": "http://arxiv.org/pdf/2408.11848v2"
+  },
+  {
+    "title": "Geolocation Representation from Large Language Models are Generic   Enhancers for Spatio-Temporal Learning",
+    "url": "http://arxiv.org/pdf/2408.12116v2"
+  },
+  {
+    "title": "Training-Free Activation Sparsity in Large Language Models",
+    "url": "http://arxiv.org/pdf/2408.14690v3"
+  },
+  {
+    "title": "Inverse-Q*: Token Level Reinforcement Learning for Aligning Large   Language Models Without Preference Data",
+    "url": "http://arxiv.org/pdf/2408.14874v2"
+  },
+  {
+    "title": "Evaluating the Impact of Compression Techniques on Task-Specific   Performance of Large Language Models",
+    "url": "http://arxiv.org/pdf/2409.11233v1"
+  },
+  {
+    "title": "WER We Stand: Benchmarking Urdu ASR Models",
+    "url": "http://arxiv.org/pdf/2409.11252v2"
+  },
+  {
+    "title": "Alternate Preference Optimization for Unlearning Factual Knowledge in   Large Language Models",
+    "url": "http://arxiv.org/pdf/2409.13474v3"
+  },
+  {
+    "title": "Enhancing Training Data Attribution for Large Language Models with   Fitting Error Consideration",
+    "url": "http://arxiv.org/pdf/2410.01285v2"
+  },
+  {
+    "title": "Upcycling Instruction Tuning from Dense to Mixture-of-Experts via   Parameter Merging",
+    "url": "http://arxiv.org/pdf/2410.01610v1"
+  },
+  {
+    "title": "TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning   Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.02062v1"
+  },
+  {
+    "title": "Towards a Benchmark for Large Language Models for Business Process   Management Tasks",
+    "url": "http://arxiv.org/pdf/2410.03255v2"
+  },
+  {
+    "title": "Large Language Models can Achieve Social Balance",
+    "url": "http://arxiv.org/pdf/2410.04054v2"
+  },
+  {
+    "title": "Harnessing Task Overload for Scalable Jailbreak Attacks on Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.04190v1"
+  },
+  {
+    "title": "Scaling Laws for Mixed quantization in Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.06722v1"
+  },
+  {
+    "title": "Sparse Autoencoders Reveal Universal Feature Spaces Across Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.06981v3"
+  },
+  {
+    "title": "Advancing Large Language Model Attribution through Self-Improving",
+    "url": "http://arxiv.org/pdf/2410.13298v1"
+  },
+  {
+    "title": "Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with   Multi-Task Assessment and Stepwise Audio Reasoning",
+    "url": "http://arxiv.org/pdf/2410.16130v2"
+  },
+  {
+    "title": "Integrating Large Language Models with Internet of Things Applications",
+    "url": "http://arxiv.org/pdf/2410.19223v1"
+  },
+  {
+    "title": "Improving Math Problem Solving in Large Language Models Through   Categorization and Strategy Tailoring",
+    "url": "http://arxiv.org/pdf/2411.00042v3"
+  },
+  {
+    "title": "Towards More Accurate US Presidential Election via Multi-step Reasoning   with Large Language Models",
+    "url": "http://arxiv.org/pdf/2411.03321v3"
+  },
+  {
+    "title": "Balancing Speed and Stability: The Trade-offs of FP8 vs. BF16 Training   in LLMs",
+    "url": "http://arxiv.org/pdf/2411.08719v1"
+  },
+  {
+    "title": "Patience Is The Key to Large Language Model Reasoning",
+    "url": "http://arxiv.org/pdf/2411.13082v3"
+  },
+  {
+    "title": "Quantifying perturbation impacts for large language models",
+    "url": "http://arxiv.org/pdf/2412.00868v1"
+  },
+  {
+    "title": "Large Language Models for Medical Forecasting -- Foresight 2",
+    "url": "http://arxiv.org/pdf/2412.10848v1"
+  },
+  {
+    "title": "A Machine Learning Approach for Emergency Detection in Medical Scenarios   Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.16341v1"
+  },
+  {
+    "title": "Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large   Language Models in Medical Applications",
+    "url": "http://arxiv.org/pdf/2501.02460v2"
+  },
+  {
+    "title": "IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks   by Efficient Human Preference Alignment",
+    "url": "http://arxiv.org/pdf/2501.02869v1"
+  },
+  {
+    "title": "Valley2: Exploring Multimodal Models with Scalable Vision-Language   Design",
+    "url": "http://arxiv.org/pdf/2501.05901v2"
+  },
+  {
+    "title": "Consistency of Responses and Continuations Generated by Large Language   Models on Social Media",
+    "url": "http://arxiv.org/pdf/2501.08102v2"
+  },
+  {
+    "title": "Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language   Models through Simulation and Task Decomposition",
+    "url": "http://arxiv.org/pdf/2501.09056v1"
+  },
+  {
+    "title": "Improving the Robustness of Representation Misdirection for Large   Language Model Unlearning",
+    "url": "http://arxiv.org/pdf/2501.19202v2"
+  },
+  {
+    "title": "Scaling Laws for Upcycling Mixture-of-Experts Language Models",
+    "url": "http://arxiv.org/pdf/2502.03009v1"
+  },
+  {
+    "title": "CAD-Editor: A Locate-then-Infill Framework with Automated Training Data   Synthesis for Text-Based CAD Editing",
+    "url": "http://arxiv.org/pdf/2502.03997v1"
+  },
+  {
+    "title": "Large Language Diffusion Models",
+    "url": "http://arxiv.org/pdf/2502.09992v2"
+  },
+  {
+    "title": "ORI: O Routing Intelligence",
+    "url": "http://arxiv.org/pdf/2502.10051v2"
+  },
+  {
+    "title": "Mind the Confidence Gap: Overconfidence, Calibration, and Distractor   Effects in Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.11028v1"
+  },
+  {
+    "title": "Idiosyncrasies in Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.12150v1"
+  },
+  {
+    "title": "Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment   Revealing Hidden Fault Lines in Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.12825v2"
+  },
+  {
+    "title": "Beyond Words: Exploring Cultural Value Sensitivity in Multimodal Models",
+    "url": "http://arxiv.org/pdf/2502.14906v1"
+  },
+  {
+    "title": "When Compression Meets Model Compression: Memory-Efficient Double   Compression for Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.15443v1"
+  },
+  {
+    "title": "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking   Evaluation of Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.17924v2"
+  },
+  {
+    "title": "Discriminative Finetuning of Generative Large Language Models without   Reward Models and Preference Data",
+    "url": "http://arxiv.org/pdf/2502.18679v1"
+  },
+  {
+    "title": "Rotary Outliers and Rotary Offset Features in Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.01832v1"
+  },
+  {
+    "title": "Network Traffic Classification Using Machine Learning, Transformer, and   Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.02141v1"
+  },
+  {
+    "title": "SKG-LLM: Developing a Mathematical Model for Stroke Knowledge Graph   Construction Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.06475v1"
+  },
+  {
+    "title": "Evaluation of Safety Cognition Capability in Vision-Language Models for   Autonomous Driving",
+    "url": "http://arxiv.org/pdf/2503.06497v1"
+  },
+  {
+    "title": "Rethinking Prompt-based Debiasing in Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.09219v1"
+  },
+  {
+    "title": "STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in   Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.17932v1"
+  },
+  {
+    "title": "Evaluating Large Language Models for Automated Clinical Abstraction in   Pulmonary Embolism Registries: Performance Across Model Sizes, Versions, and   Parameters",
+    "url": "http://arxiv.org/pdf/2503.21004v1"
+  },
+  {
+    "title": "ImF: Implicit Fingerprint for Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.21805v1"
+  },
+  {
+    "title": "An Empirical Comparison of Text Summarization: A Multi-Dimensional   Evaluation of Large Language Models",
+    "url": "http://arxiv.org/pdf/2504.04534v1"
+  },
+  {
+    "title": "Confidence in Large Language Model Evaluation: A Bayesian Approach to   Limited-Sample Challenges",
+    "url": "http://arxiv.org/pdf/2504.21303v1"
+  },
+  {
+    "title": "Efficient Shapley Value-based Non-Uniform Pruning of Large Language   Models",
+    "url": "http://arxiv.org/pdf/2505.01731v1"
+  },
+  {
+    "title": "Integration of Large Language Models and Traditional Deep Learning for   Social Determinants of Health Prediction",
+    "url": "http://arxiv.org/pdf/2505.04655v1"
+  },
+  {
+    "title": "Scaling Recurrent Neural Network Language Models",
+    "url": "http://arxiv.org/pdf/1502.00512v1"
+  },
+  {
+    "title": "Cross-lingual Speaker Verification with Deep Feature Learning",
+    "url": "http://arxiv.org/pdf/1706.07861v1"
+  },
+  {
+    "title": "Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language   Modeling",
+    "url": "http://arxiv.org/pdf/1810.10254v2"
+  },
+  {
+    "title": "Expressing Visual Relationships via Language",
+    "url": "http://arxiv.org/pdf/1906.07689v2"
+  },
+  {
+    "title": "Release Strategies and the Social Impacts of Language Models",
+    "url": "http://arxiv.org/pdf/1908.09203v2"
+  },
+  {
+    "title": "BottleSum: Unsupervised and Self-supervised Sentence Summarization using   the Information Bottleneck Principle",
+    "url": "http://arxiv.org/pdf/1909.07405v2"
+  },
+  {
+    "title": "Understanding Semantics from Speech Through Pre-training",
+    "url": "http://arxiv.org/pdf/1909.10924v1"
+  },
+  {
+    "title": "Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social   Media",
+    "url": "http://arxiv.org/pdf/1911.00637v1"
+  },
+  {
+    "title": "Exploring Neural Models for Parsing Natural Language into First-Order   Logic",
+    "url": "http://arxiv.org/pdf/2002.06544v1"
+  },
+  {
+    "title": "A Tailored Pre-Training Model for Task-Oriented Dialog Generation",
+    "url": "http://arxiv.org/pdf/2004.13835v1"
+  },
+  {
+    "title": "Deep Transformers with Latent Depth",
+    "url": "http://arxiv.org/pdf/2009.13102v2"
+  },
+  {
+    "title": "Adaptive Semiparametric Language Models",
+    "url": "http://arxiv.org/pdf/2102.02557v1"
+  },
+  {
+    "title": "Transforming Scholarly Landscapes: Influence of Large Language Models on   Academic Fields beyond Computer Science",
+    "url": "http://arxiv.org/pdf/2409.19508v1"
+  },
+  {
+    "title": "StringLLM: Understanding the String Processing Capability of Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.01208v3"
+  },
+  {
+    "title": "Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large   Language Models",
+    "url": "http://arxiv.org/pdf/2410.02308v1"
+  },
+  {
+    "title": "Large Language Models Are Active Critics in NLG Evaluation",
+    "url": "http://arxiv.org/pdf/2410.10724v2"
+  },
+  {
+    "title": "ChatVis: Automating Scientific Visualization with a Large Language Model",
+    "url": "http://arxiv.org/pdf/2410.11863v1"
+  },
+  {
+    "title": "Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation   for Korean LLMs",
+    "url": "http://arxiv.org/pdf/2410.12445v3"
+  },
+  {
+    "title": "ACCEPT: Adaptive Codebook for Composite and Efficient Prompt Tuning",
+    "url": "http://arxiv.org/pdf/2410.12847v2"
+  },
+  {
+    "title": "MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based   Inter-Robot Negotiation",
+    "url": "http://arxiv.org/pdf/2410.14383v3"
+  },
+  {
+    "title": "CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and   Retrieval-Augmented Translation with Large Language Models",
+    "url": "http://arxiv.org/pdf/2410.21067v1"
+  },
+  {
+    "title": "MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from   LZW Compression",
+    "url": "http://arxiv.org/pdf/2410.21548v2"
+  },
+  {
+    "title": "An Actor-Critic Approach to Boosting Text-to-SQL Large Language Model",
+    "url": "http://arxiv.org/pdf/2410.22082v1"
+  },
+  {
+    "title": "Anticipating Future with Large Language Model for Simultaneous Machine   Translation",
+    "url": "http://arxiv.org/pdf/2410.22499v1"
+  },
+  {
+    "title": "MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced   Molecular Property Prediction",
+    "url": "http://arxiv.org/pdf/2411.00737v1"
+  },
+  {
+    "title": "Mitigating Bias in Queer Representation within Large Language Models: A   Collaborative Agent Approach",
+    "url": "http://arxiv.org/pdf/2411.07656v2"
+  },
+  {
+    "title": "A Layered Architecture for Developing and Enhancing Capabilities in   Large Language Model-based Software Systems",
+    "url": "http://arxiv.org/pdf/2411.12357v1"
+  },
+  {
+    "title": "Towards a Middleware for Large Language Models",
+    "url": "http://arxiv.org/pdf/2411.14513v1"
+  },
+  {
+    "title": "Human Evaluation of Procedural Knowledge Graph Extraction from Text with   Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.03589v1"
+  },
+  {
+    "title": "Agent AI with LangGraph: A Modular Framework for Enhancing Machine   Translation Using Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.03801v1"
+  },
+  {
+    "title": "Retrieval-Augmented Machine Translation with Unstructured Knowledge",
+    "url": "http://arxiv.org/pdf/2412.04342v1"
+  },
+  {
+    "title": "TransitGPT: A Generative AI-based framework for interacting with GTFS   data using Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.06831v1"
+  },
+  {
+    "title": "Leveraging Retrieval-Augmented Tags for Large Vision-Language   Understanding in Complex Scenes",
+    "url": "http://arxiv.org/pdf/2412.11396v1"
+  },
+  {
+    "title": "Leveraging Foundation Language Models (FLMs) for Automated Cohort   Extraction from Large EHR Databases",
+    "url": "http://arxiv.org/pdf/2412.11472v1"
+  },
+  {
+    "title": "Lies, Damned Lies, and Distributional Language Statistics: Persuasion   and Deception with Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.17128v1"
+  },
+  {
+    "title": "M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.18299v1"
+  },
+  {
+    "title": "KRAIL: A Knowledge-Driven Framework for Base Human Reliability Analysis   Integrating IDHEAS and Large Language Models",
+    "url": "http://arxiv.org/pdf/2412.18627v1"
+  },
+  {
+    "title": "Large Language Models for Mathematical Analysis",
+    "url": "http://arxiv.org/pdf/2501.00059v1"
+  },
+  {
+    "title": "Financial Named Entity Recognition: How Far Can LLM Go?",
+    "url": "http://arxiv.org/pdf/2501.02237v1"
+  },
+  {
+    "title": "Imagine while Reasoning in Space: Multimodal Visualization-of-Thought",
+    "url": "http://arxiv.org/pdf/2501.07542v1"
+  },
+  {
+    "title": "Exploring the Potential of Large Language Models for Massive MIMO CSI   Feedback",
+    "url": "http://arxiv.org/pdf/2501.10630v1"
+  },
+  {
+    "title": "E-Gen: Leveraging E-Graphs to Improve Continuous Representations of   Symbolic Expressions",
+    "url": "http://arxiv.org/pdf/2501.14951v2"
+  },
+  {
+    "title": "Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework   for Large Language Model Updating",
+    "url": "http://arxiv.org/pdf/2502.00158v1"
+  },
+  {
+    "title": "A Survey of Quantized Graph Representation Learning: Connecting Graph   Structures with Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.00681v1"
+  },
+  {
+    "title": "Probing Large Language Models in Reasoning and Translating Complex   Linguistic Puzzles",
+    "url": "http://arxiv.org/pdf/2502.00817v1"
+  },
+  {
+    "title": "Investigating the Robustness of Deductive Reasoning with Large Language   Models",
+    "url": "http://arxiv.org/pdf/2502.04352v1"
+  },
+  {
+    "title": "A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks,   Defenses, and Evaluations",
+    "url": "http://arxiv.org/pdf/2502.05224v1"
+  },
+  {
+    "title": "Evaluating the Meta- and Object-Level Reasoning of Large Language Models   for Question Answering",
+    "url": "http://arxiv.org/pdf/2502.10338v1"
+  },
+  {
+    "title": "Injecting Domain-Specific Knowledge into Large Language Models: A   Comprehensive Survey",
+    "url": "http://arxiv.org/pdf/2502.10708v1"
+  },
+  {
+    "title": "ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large   Language Models",
+    "url": "http://arxiv.org/pdf/2502.11404v1"
+  },
+  {
+    "title": "Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on   Knowledge Graph Question Answering",
+    "url": "http://arxiv.org/pdf/2502.11491v1"
+  },
+  {
+    "title": "Token Pruning in Multimodal Large Language Models: Are We Solving the   Right Problem?",
+    "url": "http://arxiv.org/pdf/2502.11501v1"
+  },
+  {
+    "title": "Generative adversarial networks vs large language models: a comparative   study on synthetic tabular data generation",
+    "url": "http://arxiv.org/pdf/2502.14523v1"
+  },
+  {
+    "title": "Dataset Featurization: Uncovering Natural Language Features through   Unsupervised Data Reconstruction",
+    "url": "http://arxiv.org/pdf/2502.17541v1"
+  },
+  {
+    "title": "JailBench: A Comprehensive Chinese Security Assessment Benchmark for   Large Language Models",
+    "url": "http://arxiv.org/pdf/2502.18935v1"
+  },
+  {
+    "title": "The Power of Personality: A Human Simulation Perspective to Investigate   Large Language Model Agents",
+    "url": "http://arxiv.org/pdf/2502.20859v1"
+  },
+  {
+    "title": "Argument Summarization and its Evaluation in the Era of Large Language   Models",
+    "url": "http://arxiv.org/pdf/2503.00847v2"
+  },
+  {
+    "title": "Watch Out Your Album! On the Inadvertent Privacy Memorization in   Multi-Modal Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.01208v1"
+  },
+  {
+    "title": "Improving Retrospective Language Agents via Joint Policy Gradient   Optimization",
+    "url": "http://arxiv.org/pdf/2503.01490v1"
+  },
+  {
+    "title": "Leveraging Large Language Models For Optimized Item Categorization using   UNSPSC Taxonomy",
+    "url": "http://arxiv.org/pdf/2503.04728v1"
+  },
+  {
+    "title": "A Survey on Enhancing Causal Reasoning Ability of Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.09326v1"
+  },
+  {
+    "title": "LIAM: Multimodal Transformer for Language Instructions, Images, Actions   and Semantic Maps",
+    "url": "http://arxiv.org/pdf/2503.12230v1"
+  },
+  {
+    "title": "Where do Large Vision-Language Models Look at when Answering Questions?",
+    "url": "http://arxiv.org/pdf/2503.13891v1"
+  },
+  {
+    "title": "Exploring Large Language Models for Word Games:Who is the Spy?",
+    "url": "http://arxiv.org/pdf/2503.15235v1"
+  },
+  {
+    "title": "Fully Automated Generation of Combinatorial Optimisation Systems Using   Large Language Models",
+    "url": "http://arxiv.org/pdf/2503.15556v2"
+  },
+  {
+    "title": "PHEONA: An Evaluation Framework for Large Language Model-based   Approaches to Computational Phenotyping",
+    "url": "http://arxiv.org/pdf/2503.19265v2"
+  },
+  {
+    "title": "From User Preferences to Optimization Constraints Using Large Language   Models",
+    "url": "http://arxiv.org/pdf/2503.21360v1"
+  },
+  {
+    "title": "Cross-Lingual Consistency: A Novel Inference Framework for Advancing   Reasoning in Large Language Models",
+    "url": "http://arxiv.org/pdf/2504.01857v1"
+  },
+  {
+    "title": "Extending CREAMT: Leveraging Large Language Models for Literary   Translation Post-Editing",
+    "url": "http://arxiv.org/pdf/2504.03045v1"
+  },
+  {
+    "title": "GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph   Databases",
+    "url": "http://arxiv.org/pdf/2504.05478v1"
+  },
+  {
+    "title": "On the Temporal Question-Answering Capabilities of Large Language Models   Over Anonymized Data",
+    "url": "http://arxiv.org/pdf/2504.07646v1"
+  },
+  {
+    "title": "Divergent LLM Adoption and Heterogeneous Convergence Paths in Research   Writing",
+    "url": "http://arxiv.org/pdf/2504.13629v1"
+  },
+  {
+    "title": "Retrieval Augmented Generation Evaluation in the Era of Large Language   Models: A Comprehensive Survey",
+    "url": "http://arxiv.org/pdf/2504.14891v1"
+  },
+  {
+    "title": "Comparing Large Language Models and Traditional Machine Translation   Tools for Translating Medical Consultation Summaries: A Pilot Study",
+    "url": "http://arxiv.org/pdf/2504.16601v1"
+  },
+  {
+    "title": "Large Language Model Empowered Privacy-Protected Framework for PHI   Annotation in Clinical Notes",
+    "url": "http://arxiv.org/pdf/2504.18569v1"
+  },
+  {
+    "title": "BrAIcht, a theatrical agent that speaks like Bertolt Brecht's characters",
+    "url": "http://arxiv.org/pdf/2504.20552v1"
+  },
+  {
+    "title": "Toward Efficient Exploration by Large Language Model Agents",
+    "url": "http://arxiv.org/pdf/2504.20997v1"
+  },
+  {
+    "title": "MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks",
+    "url": "http://arxiv.org/pdf/2505.03427v1"
+  },
+  {
+    "title": "SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with   Off-the-Shelf Multimodal Large Language Models",
+    "url": "http://arxiv.org/pdf/2505.04911v1"
+  },
+  {
+    "title": "LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition",
+    "url": "http://arxiv.org/pdf/2008.03687v1"
+  },
+  {
+    "title": "Bridging Technology and Humanities: Evaluating the Impact of Large   Language Models on Social Sciences Research with DeepSeek-R1",
+    "url": "http://arxiv.org/pdf/2503.16304v3"
+  },
+  {
+    "title": "Training Compute-Optimal Large Language Models",
+    "url": "http://arxiv.org/pdf/2203.15556v1"
+  },
+  {
+    "title": "Open System Categorical Quantum Semantics in Natural Language Processing",
+    "url": "http://arxiv.org/pdf/1502.00831v2"
+  },
+  {
+    "title": "Variational Latent-State GPT for Semi-Supervised Task-Oriented Dialog   Systems",
+    "url": "http://arxiv.org/pdf/2109.04314v3"
+  },
+  {
+    "title": "Vectorizing string entries for data processing on tables: when are   larger language models better?",
+    "url": "http://arxiv.org/pdf/2312.09634v1"
+  },
+  {
+    "title": "GraphWiz: An Instruction-Following Language Model for Graph Problems",
+    "url": "http://arxiv.org/pdf/2402.16029v5"
+  },
+  {
+    "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient   Knowledge Transfer in Language Models",
+    "url": "http://arxiv.org/pdf/2501.16937v4"
+  },
+  {
+    "title": "DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM   Guardrails",
+    "url": "http://arxiv.org/pdf/2502.05163v1"
+  },
+  {
+    "title": "A partial order view of message-passing communication models",
+    "url": "http://arxiv.org/pdf/2210.13062v2"
+  },
+  {
+    "title": "Ranking protein-protein models with large language models and graph   neural networks",
+    "url": "http://arxiv.org/pdf/2407.16375v1"
+  },
+  {
+    "title": "Comparing large language models for supervised analysis of students' lab   notes",
+    "url": "http://arxiv.org/pdf/2412.10610v2"
+  },
+  {
+    "title": "Baichuan 2: Open Large-scale Language Models",
+    "url": "http://arxiv.org/pdf/2309.10305v4"
+  },
+  {
+    "title": "Neural Named Entity Recognition from Subword Units",
+    "url": "http://arxiv.org/pdf/1808.07364v3"
+  },
+  {
+    "title": "ERNIE-ViLG: Unified Generative Pre-training for Bidirectional   Vision-Language Generation",
+    "url": "http://arxiv.org/pdf/2112.15283v1"
+  },
+  {
+    "title": "Understanding HTML with Large Language Models",
+    "url": "http://arxiv.org/pdf/2210.03945v2"
+  },
+  {
+    "title": "Contextualized Medication Information Extraction Using Transformer-based   Deep Learning Architectures",
+    "url": "http://arxiv.org/pdf/2303.08259v1"
+  },
+  {
+    "title": "Fundamental Limitations of Alignment in Large Language Models",
+    "url": "http://arxiv.org/pdf/2304.11082v6"
+  },
+  {
+    "title": "LIMA: Less Is More for Alignment",
+    "url": "http://arxiv.org/pdf/2305.11206v1"
+  },
+  {
+    "title": "FuseCap: Leveraging Large Language Models for Enriched Fused Image   Captions",
+    "url": "http://arxiv.org/pdf/2305.17718v2"
+  },
+  {
+    "title": "Controlling Equational Reasoning in Large Language Models with Prompt   Interventions",
+    "url": "http://arxiv.org/pdf/2307.09998v5"
+  },
+  {
+    "title": "Open Sesame! Universal Black Box Jailbreaking of Large Language Models",
+    "url": "http://arxiv.org/pdf/2309.01446v4"
+  },
+  {
+    "title": "Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model   in End-to-End Speech Recognition",
+    "url": "http://arxiv.org/pdf/2309.10524v3"
+  },
+  {
+    "title": "Leveraging Vision-Language Models for Improving Domain Generalization in   Image Classification",
+    "url": "http://arxiv.org/pdf/2310.08255v2"
+  },
+  {
+    "title": "Filter bubbles and affective polarization in user-personalized large   language model outputs",
+    "url": "http://arxiv.org/pdf/2311.14677v1"
+  },
+  {
+    "title": "SM70: A Large Language Model for Medical Devices",
+    "url": "http://arxiv.org/pdf/2312.06974v1"
+  },
+  {
+    "title": "GSVA: Generalized Segmentation via Multimodal Large Language Models",
+    "url": "http://arxiv.org/pdf/2312.10103v3"
+  },
+  {
+    "title": "Spatial-Temporal Large Language Model for Traffic Prediction",
+    "url": "http://arxiv.org/pdf/2401.10134v4"
+  },
+  {
+    "title": "Locating and Mitigating Gender Bias in Large Language Models",
+    "url": "http://arxiv.org/pdf/2403.14409v1"
+  },
+  {
+    "title": "Harnessing Large Language Models for Training-free Video Anomaly   Detection",
+    "url": "http://arxiv.org/pdf/2404.01014v1"
+  },
+  {
+    "title": "AMGPT: a Large Language Model for Contextual Querying in Additive   Manufacturing",
+    "url": "http://arxiv.org/pdf/2406.00031v1"
+  },
+  {
+    "title": "M-QALM: A Benchmark to Assess Clinical Reading Comprehension and   Knowledge Recall in Large Language Models via Question Answering",
+    "url": "http://arxiv.org/pdf/2406.03699v1"
+  },
+  {
+    "title": "A Survey on Medical Large Language Models: Technology, Application,   Trustworthiness, and Future Directions",
+    "url": "http://arxiv.org/pdf/2406.03712v2"
+  }
+]
