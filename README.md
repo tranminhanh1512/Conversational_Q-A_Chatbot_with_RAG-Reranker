@@ -50,6 +50,31 @@ Conversational_Q&A_Chatbot_with_RAG&Reranker/
 - **app.py**: A Streamlit application that allows users to interact with the chatbot built using the Retrieval-Augmented Generation (RAG) system. It provides an interactive interface for users to ask questions and receive answers from the model, enabling real-time conversation with the chatbot.
 - **requirements.txt**: A file listing all the necessary Python dependencies and libraries required to run the project.
 - **.env**: Environment variables.
+## Setup instructions
+### 1. Clone the repository
+```
+git clone https://github.com/<your-username>/Conversational_Q-A_Chatbot_with_RAG-Reranker.git
+cd Conversational_Q-A_Chatbot_with_RAG-Reranker
+```
+### 2. Create a Virtual Environment
+```
+python -m venv .venv
+```
+### 3. Install Dependencies
+```
+pip install -r requirements.txt
+```
+### 4. Install  Ollama and Llama 3.2
+-  Visit the following link to download Ollama:  [Download Ollama](https://ollama.com/download)
+-  Once downloaded, extract the zip file and locate the Ollama executable.
+-  Launch a terminal and execute the following command to run the Llama-3 model locally:  
+   ```bash
+   ollama run llama3.2
+   ```
+### 5. Run the application
+```
+streamlit run app.py
+```
 
 ## Key Features 
 - Document Acquisition and Processing
@@ -64,6 +89,6 @@ Conversational_Q&A_Chatbot_with_RAG&Reranker/
 - Python
 - Streamlit
 - Ollama
-- Chroma
+- Chroma/FAISS
 - RAG
 
