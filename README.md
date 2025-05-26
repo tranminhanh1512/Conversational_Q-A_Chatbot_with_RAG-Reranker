@@ -52,11 +52,12 @@ Conversational_Q&A_Chatbot_with_RAG&Reranker/
 - **.env**: Environment variables.
 
 ## Key Features 
-- Conversational Q&A System
-- Retrieval-Augmented Generation (RAG)
-- Reranking Mechanism
 - Document Acquisition and Processing
-- Vector Database for Efficient Retrieval
+- Loads and chunks PDF files using PyPDFLoader
+- Vector Store using Chroma or FAISS + HuggingFace Embeddings
+- Conversational Q&A Chatbot using Meta's Llama 3.2 model
+- Retrieval-Augmented Generation (RAG)
+- Reranking System using cross-encoder/ms-marco-MiniLM-L12-v2 via HuggingFace Pipeline
 - Interactive Streamlit Interface
 
 ## Technologies Used
