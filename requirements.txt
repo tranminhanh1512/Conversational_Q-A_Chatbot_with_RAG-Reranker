@@ -5,6 +5,7 @@ huggingface-hub
 langchain
 langchain-core
 langchain-community
+langchain-huggingface
 pypdf
 sentence-transformers
 beautifulsoup4
