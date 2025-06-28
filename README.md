@@ -92,3 +92,7 @@ streamlit run app.py
 - Chroma/FAISS
 - RAG
 
+# Chatbot UI 
+![Screenshot 2025-06-28 at 17 52 37](https://github.com/user-attachments/assets/236c90a5-573d-4669-8954-99672666146f)
+
+
